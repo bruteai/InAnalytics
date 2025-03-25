@@ -1,0 +1,1001 @@
+Policy_Type,Region,Claim_Amount,Policy_Premium,Transaction_Date
+Life,Quebec,3474.43,906.26,2023-04-12
+Health,Quebec,18930.46,1131.68,2023-06-17
+Home,Manitoba,8209.49,639.26,2023-08-16
+Commercial,Ontario,6131.05,1144.98,2023-07-08
+Home,Ontario,15206.32,1215.71,2023-04-10
+Travel,Saskatchewan,6418.18,700.61,2023-06-05
+Life,Ontario,347.93,1220.84,2023-09-05
+Life,Alberta,3193.11,1483.67,2023-04-10
+Commercial,Ontario,3372.52,963.23,2023-06-23
+Health,Manitoba,2519.02,709.66,2023-07-24
+Health,British Columbia,3196.37,918.74,2023-03-08
+Travel,Manitoba,8898.29,1386.37,2023-07-03
+Auto,Ontario,18176.06,1891.55,2023-09-21
+Home,Manitoba,431.66,563.13,2023-07-08
+Commercial,Quebec,193.87,1028.77,2023-04-11
+Travel,Quebec,19944.77,1534.31,2023-04-16
+Life,Saskatchewan,1600.35,1128.75,2023-01-05
+Life,Alberta,1323.64,1465.55,2023-11-29
+Travel,British Columbia,1142.2,1533.78,2023-08-27
+Home,Quebec,8644.72,308.32,2023-12-19
+Health,Quebec,10761.36,1261.7,2023-09-17
+Life,British Columbia,10620.07,862.74,2023-07-04
+Health,Alberta,16310.73,1093.73,2023-11-21
+Life,Alberta,3241.97,641.08,2023-05-08
+Home,Alberta,4238.42,802.18,2023-07-18
+Life,Manitoba,206.5,757.46,2023-05-21
+Travel,British Columbia,0.83,665.21,2023-11-06
+Home,Alberta,175.03,1248.28,2023-10-31
+Travel,Alberta,3752.4,930.08,2023-11-02
+Commercial,Saskatchewan,2230.68,1544.09,2023-04-27
+Travel,Quebec,3014.0,1404.56,2023-02-15
+Auto,Saskatchewan,2846.32,1826.19,2023-06-04
+Commercial,Manitoba,13311.9,1503.91,2023-04-20
+Home,Alberta,107.51,1394.99,2023-12-01
+Travel,Manitoba,5410.1,1083.26,2023-11-22
+Life,British Columbia,10639.42,1160.79,2023-10-27
+Auto,Alberta,4177.39,418.11,2023-01-19
+Home,British Columbia,18294.72,442.86,2023-01-03
+Health,Ontario,19958.16,1715.55,2023-04-15
+Travel,Alberta,16512.93,1123.42,2023-06-14
+Life,Saskatchewan,6130.22,671.33,2023-12-08
+Commercial,Manitoba,404.77,1195.06,2023-03-01
+Health,Quebec,0.72,1577.43,2023-05-02
+Life,Saskatchewan,6133.2,1056.77,2023-12-31
+Home,Alberta,13141.83,1448.84,2023-09-20
+Home,Saskatchewan,908.08,1070.04,2023-10-05
+Travel,Quebec,276.4,928.71,2023-10-27
+Health,British Columbia,5191.69,321.7,2023-10-24
+Life,Manitoba,1534.07,1715.21,2023-02-23
+Travel,Alberta,13331.77,940.64,2023-04-15
+Health,Quebec,2370.81,1792.72,2023-10-03
+Auto,Quebec,10530.39,1240.1,2023-05-22
+Health,Manitoba,6220.09,1173.16,2023-10-31
+Auto,Alberta,960.85,1121.98,2023-11-27
+Auto,Quebec,9825.04,1938.95,2023-12-09
+Commercial,Saskatchewan,1.78,1221.01,2023-07-06
+Home,Quebec,16026.87,1843.27,2023-12-09
+Health,Manitoba,14592.47,1049.87,2023-01-23
+Health,Alberta,17231.34,1203.07,2023-11-03
+Life,Saskatchewan,2362.49,505.35,2023-10-08
+Life,Quebec,5816.22,1224.01,2023-01-28
+Health,Alberta,385.36,1420.16,2023-07-22
+Home,Ontario,3885.52,1307.18,2023-09-17
+Commercial,Manitoba,1023.6,1769.85,2023-06-14
+Auto,Saskatchewan,11522.12,537.74,2023-06-06
+Health,Quebec,7190.08,934.53,2023-12-20
+Health,Manitoba,6535.58,487.09,2023-06-25
+Auto,Alberta,18616.42,1222.59,2023-02-23
+Home,Ontario,0.45,1801.08,2023-02-16
+Health,British Columbia,9638.3,470.5,2023-09-18
+Life,Manitoba,4440.23,1848.09,2023-12-17
+Home,Alberta,10194.64,897.64,2023-06-12
+Life,Quebec,92.41,905.25,2023-02-28
+Home,Quebec,10557.58,1723.89,2023-03-19
+Home,British Columbia,0.8,782.01,2023-04-26
+Commercial,Manitoba,5041.79,1335.86,2023-01-27
+Home,Alberta,1548.76,597.12,2023-06-29
+Auto,Alberta,16366.4,1545.98,2023-04-19
+Home,British Columbia,1506.52,1897.15,2023-08-21
+Auto,Alberta,6556.7,1739.61,2023-12-13
+Health,Quebec,16563.12,1576.12,2023-01-19
+Travel,Quebec,7409.32,630.28,2023-05-10
+Commercial,Manitoba,5716.98,507.03,2023-05-19
+Commercial,British Columbia,3475.88,1631.24,2023-09-04
+Home,Quebec,11793.03,918.03,2023-06-02
+Auto,Alberta,7668.29,1636.16,2023-07-13
+Life,Manitoba,965.67,754.09,2023-10-31
+Auto,British Columbia,13022.22,1120.17,2023-07-08
+Travel,Quebec,86.91,434.78,2023-12-10
+Auto,Alberta,9969.78,627.48,2023-12-24
+Home,Manitoba,14576.88,764.89,2023-11-23
+Commercial,Ontario,14721.73,1120.09,2023-10-16
+Health,Ontario,1020.25,1249.11,2023-06-26
+Life,British Columbia,2685.53,997.17,2023-03-28
+Commercial,Alberta,8629.41,1918.49,2023-12-09
+Commercial,Quebec,8833.42,1494.81,2023-03-04
+Travel,Saskatchewan,16506.16,1727.97,2023-10-21
+Home,Manitoba,7478.57,813.89,2023-07-18
+Travel,Alberta,2809.16,1727.29,2023-05-25
+Commercial,Ontario,57.69,1108.73,2023-01-02
+Life,Alberta,2511.39,1114.28,2023-04-01
+Auto,Manitoba,620.28,818.18,2023-08-18
+Home,Quebec,106.22,1182.72,2023-07-19
+Commercial,Ontario,18493.49,480.77,2023-11-09
+Travel,Ontario,165.17,560.65,2023-09-06
+Auto,Ontario,7314.55,1313.66,2023-05-02
+Travel,Ontario,3225.19,1866.18,2023-07-01
+Health,Alberta,12151.42,1746.71,2023-02-05
+Life,Saskatchewan,10580.29,866.15,2023-05-30
+Travel,Quebec,3466.63,1317.09,2023-07-10
+Commercial,Manitoba,19546.32,1181.97,2023-07-08
+Life,Ontario,46.32,1805.87,2023-10-14
+Home,Quebec,8820.42,1913.78,2023-01-06
+Travel,British Columbia,5994.58,1029.17,2023-02-04
+Home,Alberta,10791.52,1862.84,2023-12-05
+Travel,Alberta,9021.94,1269.23,2023-03-05
+Home,Saskatchewan,11134.72,1009.1,2023-07-30
+Health,Ontario,12622.29,644.6,2023-01-10
+Commercial,Quebec,14039.39,677.15,2023-10-31
+Health,British Columbia,13419.66,1593.11,2023-09-19
+Health,Alberta,9722.05,1404.01,2023-04-27
+Health,Manitoba,19647.77,1097.94,2023-08-01
+Health,Ontario,39.18,1782.68,2023-11-03
+Auto,Saskatchewan,3177.32,949.26,2023-12-24
+Life,Saskatchewan,10917.72,1855.26,2023-03-04
+Health,Ontario,10676.8,1723.32,2023-12-05
+Auto,Alberta,17966.27,390.67,2023-04-09
+Life,Ontario,18977.73,942.68,2023-12-14
+Auto,Alberta,7941.97,1225.74,2023-07-03
+Health,Alberta,7.31,789.97,2023-05-17
+Auto,Manitoba,3942.52,373.75,2023-04-20
+Commercial,Alberta,551.47,1185.61,2023-07-31
+Health,Quebec,1958.28,439.86,2023-03-19
+Home,Saskatchewan,8361.62,1709.79,2023-02-18
+Life,Saskatchewan,6283.41,1944.85,2023-03-12
+Commercial,Alberta,2229.58,1258.59,2023-08-26
+Life,Saskatchewan,1788.79,1574.64,2023-03-23
+Travel,Saskatchewan,709.51,1281.19,2023-03-04
+Travel,Alberta,12979.15,856.32,2023-09-04
+Auto,Saskatchewan,11555.96,1569.67,2023-06-29
+Commercial,Quebec,10755.4,1783.38,2023-06-17
+Life,Ontario,9504.83,785.8,2023-07-23
+Life,Manitoba,7797.81,1129.32,2023-07-02
+Life,Saskatchewan,1024.21,1790.05,2023-04-23
+Life,Manitoba,13732.17,439.74,2023-03-17
+Travel,Quebec,13360.82,761.57,2023-07-15
+Life,British Columbia,47.31,1567.55,2023-01-14
+Life,Ontario,4420.48,1275.18,2023-02-24
+Health,British Columbia,14103.16,1034.62,2023-10-07
+Travel,Saskatchewan,13683.39,1716.9,2023-10-29
+Health,Manitoba,1942.61,690.71,2023-08-23
+Home,Saskatchewan,215.68,1362.0,2023-02-26
+Home,Quebec,12003.06,383.79,2023-11-12
+Travel,British Columbia,13870.61,675.77,2023-06-02
+Auto,Saskatchewan,1123.18,1190.71,2023-03-13
+Life,Saskatchewan,6106.45,1098.79,2023-11-15
+Travel,Saskatchewan,6218.44,945.38,2023-10-07
+Life,Manitoba,9336.63,623.65,2023-02-22
+Travel,Saskatchewan,999.42,937.74,2023-12-30
+Commercial,Ontario,10866.63,1499.44,2023-03-19
+Commercial,Ontario,7424.3,1624.56,2023-01-11
+Commercial,British Columbia,3.93,1730.75,2023-09-05
+Health,British Columbia,9563.94,1089.1,2023-08-31
+Travel,Quebec,987.49,1828.11,2023-08-19
+Travel,British Columbia,308.12,1310.41,2023-05-08
+Auto,British Columbia,13179.83,1832.49,2023-11-17
+Travel,Ontario,3850.57,1112.36,2023-05-09
+Life,Ontario,14297.28,1698.56,2023-04-30
+Commercial,Manitoba,16774.32,1341.27,2023-03-04
+Life,Manitoba,3098.38,1557.38,2023-10-19
+Auto,Saskatchewan,7868.1,1413.53,2023-07-15
+Home,Alberta,601.36,877.7,2023-02-14
+Home,Alberta,502.44,965.09,2023-11-27
+Life,Quebec,9186.64,627.57,2023-05-13
+Life,Manitoba,147.76,569.68,2023-11-02
+Home,Alberta,14841.92,1122.06,2023-09-01
+Health,Saskatchewan,1153.03,1446.71,2023-11-18
+Health,Manitoba,8032.55,1582.55,2023-04-07
+Travel,Quebec,522.64,534.11,2023-07-21
+Commercial,Quebec,19049.13,1333.8,2023-02-01
+Commercial,Saskatchewan,4634.86,965.5,2023-07-30
+Life,Quebec,218.92,882.55,2023-04-19
+Home,Manitoba,9973.59,486.58,2023-12-04
+Life,Manitoba,4516.63,1601.61,2023-08-10
+Home,Quebec,2724.82,1454.84,2023-09-15
+Auto,Manitoba,1493.54,849.1,2023-10-30
+Health,Saskatchewan,107.52,880.48,2023-09-30
+Travel,Quebec,627.75,1996.53,2023-05-16
+Home,Quebec,4141.37,1018.67,2023-05-03
+Commercial,Ontario,18238.35,855.59,2023-01-22
+Travel,Manitoba,1543.6,1249.36,2023-05-07
+Commercial,Alberta,3635.1,1842.56,2023-10-03
+Life,Manitoba,17738.82,1473.78,2023-01-01
+Home,Manitoba,15490.38,1472.47,2023-07-14
+Home,British Columbia,11485.47,521.37,2023-11-12
+Home,British Columbia,8425.85,1690.22,2023-12-21
+Commercial,Ontario,2824.51,465.47,2023-03-12
+Life,Ontario,329.77,1863.82,2023-12-01
+Life,Quebec,1322.44,1177.84,2023-10-03
+Life,British Columbia,17000.03,1416.41,2023-11-21
+Auto,Manitoba,7547.71,1555.69,2023-08-05
+Commercial,Manitoba,9084.82,1995.32,2023-12-02
+Home,Ontario,16345.19,597.92,2023-12-04
+Auto,Manitoba,3747.59,1033.48,2023-10-05
+Health,Saskatchewan,3792.72,756.07,2023-11-04
+Travel,British Columbia,15140.18,907.84,2023-09-14
+Commercial,Manitoba,7212.37,1660.92,2023-12-29
+Life,British Columbia,46.08,1171.06,2023-04-26
+Commercial,Ontario,6.41,1708.35,2023-12-15
+Auto,Manitoba,14042.82,1193.42,2023-09-22
+Travel,Manitoba,170.32,925.55,2023-01-07
+Home,Manitoba,16923.49,306.34,2023-07-21
+Commercial,Quebec,3447.7,881.51,2023-05-24
+Life,Ontario,6907.62,345.78,2023-11-04
+Health,Quebec,9885.68,1408.5,2023-09-25
+Health,Ontario,7435.54,773.55,2023-09-04
+Home,Saskatchewan,657.82,409.7,2023-03-29
+Auto,Alberta,2781.6,1265.89,2023-06-07
+Life,Quebec,7988.1,1807.06,2023-08-30
+Life,Ontario,17486.2,753.32,2023-10-11
+Auto,Quebec,4330.01,1122.78,2023-12-06
+Life,Alberta,16981.93,534.82,2023-11-02
+Travel,Manitoba,26.99,512.17,2023-05-04
+Travel,Quebec,11330.63,664.79,2023-06-11
+Travel,Manitoba,13536.35,782.8,2023-01-18
+Travel,Alberta,1475.59,1779.08,2023-07-07
+Health,Alberta,434.58,1776.78,2023-05-29
+Travel,Saskatchewan,11807.65,1516.76,2023-08-31
+Commercial,Ontario,0.47,1568.13,2023-08-10
+Travel,Ontario,432.34,426.86,2023-04-14
+Health,Manitoba,645.91,1271.58,2023-04-07
+Auto,Alberta,700.56,685.44,2023-12-29
+Life,Saskatchewan,21.47,923.82,2023-01-02
+Commercial,Alberta,9436.19,1108.47,2023-01-28
+Home,Quebec,5063.82,1632.09,2023-11-04
+Home,Manitoba,16014.24,1281.84,2023-01-12
+Auto,Ontario,1406.73,1456.06,2023-06-13
+Health,Alberta,2482.68,1331.56,2023-07-13
+Life,Ontario,7507.74,1608.16,2023-06-27
+Life,British Columbia,5568.56,1716.19,2023-11-11
+Commercial,Alberta,14965.96,859.9,2023-08-08
+Home,Manitoba,18081.53,587.92,2023-02-26
+Travel,Ontario,14399.6,1556.56,2023-06-04
+Health,Saskatchewan,212.44,1504.77,2023-06-02
+Commercial,Saskatchewan,4473.54,1766.14,2023-01-27
+Commercial,Manitoba,11642.35,370.03,2023-03-13
+Commercial,Manitoba,2390.58,515.0,2023-07-01
+Life,Alberta,17450.54,1463.42,2023-05-26
+Commercial,Saskatchewan,3325.6,861.67,2023-01-10
+Auto,Ontario,9902.09,873.21,2023-02-09
+Home,British Columbia,3766.29,1110.14,2023-09-12
+Auto,Quebec,19613.33,1534.43,2023-04-16
+Life,British Columbia,15725.72,1682.94,2023-08-24
+Life,Manitoba,8216.87,960.68,2023-09-25
+Travel,Quebec,1267.39,663.85,2023-08-19
+Health,Quebec,2171.07,398.48,2023-05-18
+Travel,Saskatchewan,1433.94,312.79,2023-06-03
+Auto,British Columbia,119.87,326.37,2023-04-26
+Home,Manitoba,11538.63,354.6,2023-05-17
+Auto,Ontario,3.05,686.93,2023-09-26
+Health,Ontario,1433.26,1530.8,2023-07-16
+Life,Quebec,7541.92,1419.84,2023-03-18
+Commercial,British Columbia,15789.15,641.22,2023-12-17
+Commercial,Alberta,15581.97,1744.92,2023-04-03
+Travel,Quebec,440.31,1149.32,2023-06-06
+Home,Alberta,17710.27,942.51,2023-02-20
+Commercial,Alberta,7597.06,954.95,2023-03-17
+Health,British Columbia,1380.1,1669.16,2023-03-26
+Health,British Columbia,526.62,1931.99,2023-01-06
+Home,Quebec,10343.03,869.74,2023-10-15
+Home,Ontario,15295.63,578.51,2023-12-14
+Travel,Alberta,914.9,1130.75,2023-02-27
+Home,Alberta,148.21,1692.69,2023-04-12
+Health,British Columbia,6784.74,583.84,2023-03-17
+Commercial,Quebec,221.4,873.05,2023-04-10
+Travel,Ontario,6592.66,1802.97,2023-10-11
+Commercial,British Columbia,2035.39,1862.25,2023-10-09
+Commercial,Manitoba,11550.19,416.44,2023-07-29
+Auto,British Columbia,9191.31,1683.14,2023-12-18
+Commercial,Ontario,15333.76,661.05,2023-06-30
+Home,Alberta,5762.66,725.92,2023-02-24
+Life,Alberta,14456.51,448.34,2023-04-20
+Travel,Quebec,137.02,742.9,2023-11-19
+Home,Quebec,245.6,1799.81,2023-01-14
+Home,Alberta,197.0,1220.42,2023-05-24
+Travel,Alberta,18991.09,1085.77,2023-08-13
+Life,Saskatchewan,612.86,1060.37,2023-07-19
+Commercial,Saskatchewan,14916.96,944.27,2023-09-27
+Travel,Quebec,6068.13,1960.93,2023-08-30
+Auto,Ontario,3173.36,347.7,2023-03-23
+Auto,Manitoba,8085.48,1210.63,2023-04-30
+Life,Ontario,18236.89,1691.85,2023-06-06
+Life,Quebec,17916.96,1271.17,2023-12-27
+Health,Saskatchewan,19206.75,562.87,2023-05-08
+Health,Manitoba,844.5,526.89,2023-09-07
+Home,Quebec,1226.55,1351.42,2023-01-10
+Life,British Columbia,14863.64,311.79,2023-03-08
+Commercial,Saskatchewan,9929.63,1439.32,2023-06-19
+Health,Saskatchewan,604.29,1714.8,2023-01-20
+Home,Quebec,283.31,618.73,2023-03-21
+Travel,Quebec,7930.92,466.76,2023-10-07
+Travel,Manitoba,11521.36,935.24,2023-12-26
+Home,Manitoba,12952.94,1638.18,2023-11-30
+Health,Saskatchewan,78.34,1814.24,2023-08-16
+Commercial,Alberta,1542.7,689.34,2023-07-21
+Health,British Columbia,13659.65,1758.16,2023-11-07
+Auto,Quebec,7945.23,1064.53,2023-02-28
+Life,Quebec,219.82,326.71,2023-02-10
+Life,Manitoba,12369.13,1091.94,2023-02-11
+Health,Quebec,543.96,1661.79,2023-03-28
+Life,Saskatchewan,40.31,658.61,2023-12-10
+Travel,British Columbia,4712.94,1119.76,2023-11-28
+Life,Ontario,12952.11,1239.02,2023-02-03
+Travel,British Columbia,12835.03,605.13,2023-09-22
+Home,Manitoba,915.5,1691.15,2023-12-08
+Travel,Quebec,3064.79,1721.12,2023-10-23
+Commercial,British Columbia,16211.02,1747.22,2023-11-24
+Auto,Ontario,261.38,1697.18,2023-04-18
+Home,Ontario,10305.1,1808.91,2023-03-01
+Commercial,Manitoba,2186.62,669.8,2023-04-14
+Home,Ontario,642.54,1448.84,2023-11-07
+Health,Quebec,1602.17,1689.92,2023-02-16
+Auto,Alberta,7537.15,1460.32,2023-02-28
+Home,Saskatchewan,13058.51,459.7,2023-02-16
+Commercial,Saskatchewan,9187.02,674.98,2023-09-23
+Life,British Columbia,13407.93,1172.23,2023-04-12
+Travel,Manitoba,13842.35,1064.81,2023-08-14
+Home,Ontario,4532.77,1829.1,2023-09-16
+Auto,Saskatchewan,2490.78,410.87,2023-03-20
+Life,Quebec,119.97,1082.67,2023-10-14
+Auto,Quebec,6876.57,644.6,2023-10-12
+Travel,Alberta,14866.69,1867.74,2023-11-26
+Life,Ontario,9345.22,1106.41,2023-01-11
+Life,Alberta,5849.08,825.78,2023-12-31
+Commercial,Saskatchewan,9143.39,1567.93,2023-02-01
+Health,Manitoba,1881.62,1897.21,2023-07-13
+Commercial,British Columbia,18253.08,752.07,2023-02-07
+Travel,Ontario,13363.56,694.48,2023-10-25
+Life,Saskatchewan,6769.15,1668.07,2023-07-17
+Commercial,Ontario,586.64,849.1,2023-06-02
+Travel,Saskatchewan,7495.25,1435.48,2023-09-10
+Travel,Saskatchewan,1236.83,1615.19,2023-11-26
+Health,Quebec,10626.97,1491.86,2023-08-07
+Travel,British Columbia,3764.23,930.4,2023-12-12
+Health,Ontario,15370.89,488.02,2023-01-22
+Commercial,Alberta,1597.58,316.47,2023-05-25
+Life,Ontario,12823.77,1591.28,2023-08-31
+Health,British Columbia,408.47,1503.55,2023-04-07
+Auto,British Columbia,4065.41,381.75,2023-06-05
+Commercial,Saskatchewan,294.45,751.77,2023-12-31
+Auto,Quebec,13.5,1527.91,2023-03-10
+Commercial,Alberta,3628.01,310.27,2023-02-15
+Health,Manitoba,122.1,788.93,2023-07-24
+Health,Ontario,3985.63,1866.67,2023-09-20
+Life,Saskatchewan,7948.41,940.52,2023-04-27
+Health,Quebec,885.27,554.76,2023-02-12
+Auto,Manitoba,6708.1,1405.21,2023-03-05
+Commercial,Manitoba,4517.16,1366.78,2023-05-10
+Auto,Alberta,1531.77,1479.69,2023-06-21
+Commercial,Manitoba,17790.05,1839.79,2023-12-08
+Auto,Alberta,1496.28,1947.37,2023-09-19
+Life,Alberta,2949.86,1097.84,2023-07-10
+Home,Saskatchewan,12567.65,1681.45,2023-10-11
+Travel,Saskatchewan,183.32,834.39,2023-01-22
+Travel,British Columbia,17847.87,707.79,2023-09-30
+Commercial,Ontario,363.49,1199.22,2023-09-20
+Commercial,Quebec,1012.83,1183.2,2023-07-26
+Commercial,Alberta,1040.59,1128.29,2023-06-20
+Travel,Ontario,637.5,349.88,2023-03-15
+Life,Manitoba,17397.32,658.08,2023-05-08
+Auto,Alberta,5066.85,1975.37,2023-03-21
+Health,Alberta,373.52,1177.12,2023-02-09
+Life,Alberta,10051.01,1187.35,2023-11-17
+Commercial,Manitoba,7851.76,1151.55,2023-09-18
+Auto,British Columbia,5729.08,1860.07,2023-03-07
+Travel,British Columbia,5907.31,909.31,2023-07-20
+Home,British Columbia,10200.13,1130.37,2023-06-26
+Health,Ontario,8682.43,1024.58,2023-04-29
+Life,Saskatchewan,693.35,364.98,2023-05-09
+Home,British Columbia,1777.98,1021.09,2023-11-14
+Home,Saskatchewan,17810.52,1171.2,2023-10-10
+Auto,Ontario,0.39,1078.66,2023-06-21
+Auto,Manitoba,8804.42,593.49,2023-04-04
+Home,Ontario,516.08,380.59,2023-02-24
+Travel,Alberta,14814.92,1583.63,2023-06-16
+Home,British Columbia,2015.83,877.1,2023-12-05
+Auto,Manitoba,15642.45,1021.07,2023-09-29
+Life,Ontario,13637.84,733.27,2023-03-01
+Health,Manitoba,2038.66,842.26,2023-09-28
+Auto,Saskatchewan,711.9,1140.11,2023-05-06
+Life,Alberta,4507.81,841.41,2023-08-18
+Travel,Saskatchewan,6660.71,1887.01,2023-01-08
+Travel,Alberta,160.51,629.9,2023-08-04
+Home,Alberta,8776.21,474.63,2023-11-04
+Health,Ontario,14856.35,926.35,2023-04-24
+Commercial,British Columbia,4906.42,1608.87,2023-07-11
+Auto,Ontario,7675.11,1644.62,2023-05-23
+Auto,Ontario,4018.06,910.78,2023-06-09
+Auto,British Columbia,13695.99,830.0,2023-04-23
+Home,Ontario,3172.8,1313.83,2023-09-14
+Commercial,Saskatchewan,9428.22,574.43,2023-07-16
+Auto,Ontario,3561.97,1214.53,2023-04-24
+Auto,British Columbia,3291.68,1452.13,2023-11-15
+Commercial,Manitoba,7352.09,1242.91,2023-09-19
+Home,Manitoba,3803.45,943.28,2023-08-25
+Life,Alberta,479.29,486.61,2023-09-18
+Travel,Saskatchewan,3836.96,1147.74,2023-11-08
+Auto,Quebec,3523.18,1070.04,2023-02-16
+Health,British Columbia,53.54,383.93,2023-12-19
+Travel,British Columbia,17914.93,381.3,2023-09-30
+Life,British Columbia,726.96,1346.36,2023-11-16
+Home,Saskatchewan,7410.08,1847.37,2023-12-31
+Commercial,Quebec,14006.19,626.76,2023-08-02
+Travel,Saskatchewan,157.18,1261.28,2023-01-01
+Health,Manitoba,2930.78,1684.2,2023-06-12
+Life,Saskatchewan,4772.3,1790.33,2023-04-14
+Auto,Manitoba,10114.22,1261.22,2023-01-29
+Health,Quebec,3.84,387.64,2023-05-09
+Auto,Alberta,2191.76,699.91,2023-02-20
+Home,Alberta,5879.66,559.16,2023-08-03
+Health,British Columbia,2682.94,1529.85,2023-05-18
+Home,Manitoba,3490.5,735.94,2023-01-05
+Travel,Saskatchewan,7527.35,1794.44,2023-08-21
+Travel,Ontario,16550.24,1045.8,2023-05-15
+Commercial,Alberta,6588.04,1160.7,2023-11-23
+Commercial,British Columbia,10496.26,777.67,2023-03-24
+Home,Saskatchewan,16145.13,893.46,2023-11-23
+Travel,British Columbia,2.01,309.68,2023-03-06
+Home,Ontario,3035.59,1888.4,2023-07-16
+Commercial,Quebec,15882.95,300.29,2023-11-27
+Auto,Alberta,241.73,692.62,2023-08-20
+Home,Manitoba,9292.21,1556.19,2023-12-24
+Life,Manitoba,449.24,1839.66,2023-01-30
+Home,Manitoba,2899.73,997.01,2023-01-07
+Health,Ontario,11393.45,1403.16,2023-03-30
+Travel,Ontario,11448.56,1612.68,2023-07-10
+Life,British Columbia,1901.94,674.14,2023-05-10
+Commercial,Manitoba,668.39,580.24,2023-08-15
+Home,Ontario,3792.77,1776.32,2023-04-14
+Travel,Saskatchewan,16832.73,388.3,2023-04-02
+Health,Ontario,11699.69,572.2,2023-03-16
+Commercial,Alberta,12496.96,1152.33,2023-11-25
+Health,Manitoba,8162.02,1338.81,2023-08-04
+Health,Manitoba,9862.51,893.69,2023-03-04
+Health,Manitoba,19744.34,1034.23,2023-10-24
+Health,Manitoba,14880.85,1815.86,2023-01-27
+Health,Manitoba,2803.82,1215.81,2023-08-10
+Health,Ontario,1376.11,1942.2,2023-05-14
+Travel,Saskatchewan,370.86,1054.6,2023-05-30
+Commercial,Manitoba,5766.64,542.73,2023-03-04
+Health,Ontario,292.9,1991.5,2023-03-31
+Home,British Columbia,288.58,771.38,2023-06-17
+Home,Ontario,3580.74,1499.16,2023-03-01
+Commercial,Ontario,1241.52,1690.15,2023-09-22
+Auto,British Columbia,8469.04,1463.88,2023-08-14
+Home,Manitoba,5496.52,1111.07,2023-04-22
+Home,Ontario,2457.63,641.09,2023-01-27
+Travel,Manitoba,1954.33,1192.7,2023-07-25
+Auto,British Columbia,5710.15,1263.76,2023-11-22
+Health,Manitoba,10860.23,1224.47,2023-01-13
+Home,Alberta,10404.66,1809.56,2023-10-04
+Life,British Columbia,2708.82,1114.96,2023-10-19
+Life,Quebec,2375.61,377.09,2023-01-25
+Life,Manitoba,7279.47,782.59,2023-01-27
+Home,Alberta,2468.86,1319.95,2023-01-16
+Home,British Columbia,2287.16,557.41,2023-06-26
+Health,Saskatchewan,1744.12,1018.58,2023-08-27
+Auto,Quebec,141.62,1320.41,2023-06-10
+Life,Saskatchewan,3325.15,393.96,2023-02-28
+Life,Manitoba,6652.0,836.28,2023-05-10
+Commercial,British Columbia,6586.43,735.88,2023-12-07
+Travel,Quebec,6998.29,802.9,2023-05-13
+Home,Manitoba,15194.23,1859.74,2023-06-17
+Auto,British Columbia,11391.72,1236.3,2023-01-10
+Auto,Quebec,2567.9,1655.53,2023-05-12
+Travel,Quebec,1656.55,355.06,2023-03-02
+Health,Alberta,15256.92,1629.99,2023-11-05
+Travel,British Columbia,4863.59,1358.78,2023-12-06
+Travel,Saskatchewan,5264.94,508.79,2023-02-21
+Health,British Columbia,10037.76,1276.6,2023-08-03
+Travel,Alberta,2.46,529.93,2023-05-16
+Commercial,Saskatchewan,961.81,1922.8,2023-09-30
+Commercial,Ontario,5910.18,454.3,2023-04-22
+Auto,Alberta,18700.34,1067.97,2023-11-02
+Travel,Alberta,13874.49,1563.55,2023-08-15
+Commercial,British Columbia,12418.55,1559.87,2023-04-08
+Home,Quebec,7397.18,1392.88,2023-01-12
+Travel,Alberta,12207.68,842.24,2023-11-02
+Commercial,Quebec,2839.25,427.64,2023-11-05
+Home,British Columbia,413.83,1766.46,2023-06-23
+Home,Manitoba,20.87,599.64,2023-11-28
+Auto,Manitoba,18507.54,867.41,2023-06-09
+Life,Manitoba,12030.56,1000.75,2023-01-29
+Commercial,British Columbia,13612.37,1589.65,2023-03-15
+Auto,Saskatchewan,1041.35,1507.84,2023-12-05
+Home,Ontario,1277.23,313.45,2023-12-31
+Health,Manitoba,2210.88,851.88,2023-11-27
+Travel,Ontario,18602.53,631.37,2023-10-16
+Auto,Quebec,515.72,1054.03,2023-12-30
+Auto,Manitoba,7484.86,1199.73,2023-07-09
+Auto,Saskatchewan,8845.35,728.54,2023-12-11
+Commercial,Quebec,6715.81,1258.12,2023-01-30
+Home,Alberta,1375.09,1294.34,2023-09-17
+Health,Quebec,18578.62,1121.96,2023-04-04
+Health,Manitoba,583.1,1605.8,2023-05-29
+Commercial,Saskatchewan,3089.6,1042.72,2023-07-17
+Home,Alberta,10276.87,1380.96,2023-01-15
+Life,Manitoba,2144.05,1691.0,2023-04-29
+Life,Ontario,18.28,872.06,2023-05-14
+Travel,Ontario,188.41,356.55,2023-08-13
+Life,Alberta,6028.47,417.96,2023-08-21
+Health,British Columbia,2230.93,546.39,2023-08-13
+Life,Saskatchewan,6879.1,833.21,2023-02-15
+Travel,Alberta,13341.45,1704.98,2023-02-03
+Health,Alberta,4704.42,460.9,2023-02-22
+Home,Quebec,11927.47,428.2,2023-06-16
+Auto,Quebec,1903.5,519.56,2023-07-07
+Health,Manitoba,708.48,635.72,2023-06-11
+Auto,Quebec,3359.79,1097.59,2023-07-07
+Health,Ontario,17883.46,1326.83,2023-09-12
+Life,British Columbia,14841.36,724.62,2023-01-16
+Health,Saskatchewan,309.29,1899.07,2023-06-16
+Life,Alberta,5658.72,872.79,2023-07-17
+Travel,British Columbia,220.69,381.92,2023-12-05
+Travel,Manitoba,1760.89,1085.75,2023-05-30
+Home,Manitoba,3686.16,808.94,2023-03-07
+Life,Saskatchewan,4895.16,1052.97,2023-12-29
+Health,Manitoba,2101.26,427.15,2023-12-18
+Auto,Alberta,2230.89,700.01,2023-07-20
+Travel,Quebec,23.01,1660.43,2023-03-22
+Home,British Columbia,8045.39,1082.7,2023-10-14
+Commercial,Manitoba,7803.22,1500.45,2023-03-30
+Auto,Alberta,219.41,641.82,2023-02-27
+Travel,Alberta,1668.62,418.26,2023-03-26
+Home,British Columbia,41.9,1796.06,2023-11-28
+Commercial,British Columbia,12082.75,1670.85,2023-07-13
+Travel,Quebec,14145.89,1614.23,2023-11-13
+Commercial,British Columbia,2797.61,874.92,2023-12-29
+Commercial,Manitoba,1779.61,655.49,2023-11-03
+Travel,Saskatchewan,16085.97,1856.34,2023-06-04
+Health,Ontario,16806.22,390.39,2023-03-25
+Commercial,Quebec,2054.18,1674.39,2023-08-20
+Home,Quebec,112.88,1663.46,2023-12-26
+Life,Quebec,825.4,706.36,2023-12-15
+Life,Ontario,2260.63,1177.25,2023-03-03
+Auto,Alberta,4458.61,1760.73,2023-01-24
+Travel,Alberta,12163.38,1724.75,2023-04-13
+Travel,Saskatchewan,5900.38,1753.17,2023-05-31
+Life,British Columbia,4953.76,1832.75,2023-12-27
+Commercial,Saskatchewan,1735.08,1874.92,2023-03-24
+Health,Quebec,4196.02,696.59,2023-09-30
+Life,Alberta,5802.11,1045.25,2023-04-13
+Auto,British Columbia,6.87,1048.04,2023-06-23
+Health,Alberta,8781.87,1793.34,2023-01-13
+Health,Alberta,9458.4,712.82,2023-10-16
+Life,Quebec,9161.55,643.05,2023-10-17
+Commercial,British Columbia,7140.19,1356.99,2023-08-03
+Commercial,British Columbia,13138.92,689.35,2023-07-27
+Life,Manitoba,7068.99,484.5,2023-07-02
+Commercial,British Columbia,12712.71,1828.52,2023-07-31
+Home,Quebec,6429.9,598.53,2023-03-24
+Auto,British Columbia,12727.49,636.97,2023-03-29
+Home,British Columbia,12997.74,678.84,2023-09-21
+Travel,Ontario,10508.89,470.3,2023-08-05
+Life,Alberta,11959.66,1449.62,2023-06-07
+Health,Manitoba,1073.78,1588.37,2023-09-12
+Life,Ontario,5270.63,1860.56,2023-02-23
+Auto,Ontario,63.55,883.59,2023-10-03
+Health,British Columbia,737.8,1025.61,2023-02-27
+Auto,Manitoba,2252.35,341.86,2023-05-12
+Commercial,Manitoba,3404.45,1394.6,2023-02-28
+Life,Manitoba,17409.91,687.09,2023-02-01
+Auto,British Columbia,57.84,1118.71,2023-11-12
+Auto,Alberta,304.85,1952.54,2023-10-08
+Home,Alberta,10756.58,459.6,2023-03-07
+Travel,Alberta,5946.94,984.85,2023-06-20
+Auto,Saskatchewan,4570.2,1522.67,2023-12-31
+Commercial,Ontario,5723.04,1318.36,2023-04-05
+Travel,Alberta,2799.24,1708.75,2023-05-15
+Home,British Columbia,2411.59,1442.7,2023-05-04
+Home,Manitoba,4030.37,386.1,2023-05-29
+Home,Saskatchewan,19575.82,1476.36,2023-07-17
+Commercial,Ontario,57.79,1114.45,2023-02-02
+Home,British Columbia,9531.5,1780.21,2023-02-18
+Health,Alberta,16004.28,930.16,2023-07-18
+Life,Saskatchewan,13793.45,1663.26,2023-04-22
+Auto,Alberta,2795.95,1053.98,2023-07-20
+Home,Saskatchewan,7396.15,1619.17,2023-08-26
+Auto,Saskatchewan,6348.75,1686.77,2023-02-27
+Commercial,British Columbia,1696.62,1653.68,2023-04-26
+Life,Alberta,15955.91,1085.33,2023-05-30
+Auto,Saskatchewan,112.64,526.34,2023-03-15
+Health,Ontario,17610.26,1502.29,2023-07-31
+Travel,British Columbia,572.35,1120.02,2023-11-21
+Home,Quebec,489.18,409.96,2023-07-16
+Auto,Quebec,712.58,1996.17,2023-07-23
+Commercial,Quebec,14464.53,903.36,2023-04-22
+Life,Ontario,3169.47,1797.91,2023-04-17
+Life,Ontario,9311.81,1439.79,2023-03-04
+Auto,Ontario,3645.75,417.35,2023-08-02
+Travel,Saskatchewan,11548.38,1136.01,2023-04-02
+Auto,Quebec,6058.82,1111.36,2023-01-13
+Auto,Quebec,18782.69,486.05,2023-07-28
+Life,Alberta,18773.59,300.49,2023-08-03
+Home,Quebec,181.11,1455.46,2023-05-15
+Home,Saskatchewan,135.4,1036.08,2023-07-11
+Travel,Quebec,3724.73,1344.86,2023-03-31
+Commercial,Manitoba,911.24,1771.86,2023-10-14
+Life,Quebec,320.09,1165.43,2023-05-25
+Auto,Manitoba,13243.93,998.15,2023-09-09
+Commercial,Alberta,14438.75,965.37,2023-01-27
+Travel,Quebec,2.1,1334.63,2023-01-09
+Auto,Saskatchewan,8687.71,1112.54,2023-02-15
+Auto,Alberta,7443.93,513.76,2023-12-21
+Home,Alberta,91.66,1466.87,2023-08-01
+Health,Quebec,4014.87,670.25,2023-10-26
+Auto,Ontario,1.72,1736.9,2023-08-10
+Home,Saskatchewan,116.81,1849.31,2023-06-29
+Commercial,Ontario,12786.66,1777.17,2023-02-06
+Home,Saskatchewan,11148.46,469.85,2023-10-03
+Health,Saskatchewan,7028.6,1833.59,2023-06-08
+Health,Manitoba,15513.56,1782.54,2023-12-20
+Commercial,Ontario,18962.96,599.42,2023-06-22
+Home,Quebec,5820.21,1993.63,2023-07-28
+Health,Quebec,3926.78,1133.53,2023-07-13
+Home,Ontario,36.0,645.25,2023-02-03
+Health,Saskatchewan,6729.19,891.06,2023-11-14
+Commercial,Saskatchewan,2081.35,1290.93,2023-06-10
+Travel,Ontario,6188.25,1223.29,2023-03-20
+Auto,Quebec,514.8,840.35,2023-01-04
+Travel,Alberta,19693.61,575.72,2023-11-22
+Auto,Saskatchewan,8677.51,1266.81,2023-06-08
+Commercial,Manitoba,230.32,1350.22,2023-11-17
+Commercial,Manitoba,8665.16,1904.27,2023-12-03
+Life,Ontario,588.46,1077.5,2023-03-10
+Commercial,Saskatchewan,15.94,1108.24,2023-04-25
+Health,Saskatchewan,129.3,1128.17,2023-04-11
+Travel,Quebec,625.11,1632.51,2023-04-02
+Health,British Columbia,17298.03,1433.6,2023-07-11
+Auto,Quebec,639.57,1383.14,2023-11-18
+Life,Manitoba,5615.27,1330.25,2023-12-03
+Health,Quebec,6765.27,1657.61,2023-03-26
+Life,Ontario,19936.47,1776.98,2023-11-07
+Health,Quebec,1580.95,834.05,2023-04-25
+Auto,Ontario,19741.81,459.27,2023-06-25
+Home,Ontario,14553.18,1345.98,2023-10-28
+Life,Ontario,16302.12,1435.27,2023-05-01
+Commercial,Quebec,2.23,597.65,2023-08-15
+Travel,British Columbia,10460.59,1144.64,2023-10-02
+Life,Quebec,1802.36,315.78,2023-02-14
+Travel,Quebec,1219.22,551.01,2023-10-06
+Health,British Columbia,898.68,964.52,2023-05-25
+Life,Quebec,4843.19,1243.66,2023-09-24
+Life,Manitoba,6075.73,1385.13,2023-08-01
+Travel,British Columbia,5231.18,1804.68,2023-03-21
+Travel,Saskatchewan,5301.16,797.7,2023-01-15
+Commercial,Manitoba,9754.69,852.21,2023-08-02
+Home,British Columbia,3326.78,1944.14,2023-01-23
+Life,British Columbia,2.49,1249.2,2023-12-13
+Home,Alberta,4552.73,1721.19,2023-05-14
+Travel,Alberta,271.52,1033.96,2023-11-03
+Commercial,Saskatchewan,11709.92,1436.87,2023-03-10
+Home,Ontario,218.53,1068.93,2023-03-11
+Auto,Quebec,8343.3,1363.73,2023-01-13
+Home,Alberta,17525.11,935.57,2023-10-27
+Home,Saskatchewan,11383.34,859.76,2023-02-17
+Life,Alberta,15090.33,733.46,2023-01-12
+Life,Ontario,127.85,1598.49,2023-04-12
+Home,Alberta,7554.7,1238.67,2023-05-11
+Health,Alberta,14395.65,1700.71,2023-01-08
+Auto,Quebec,18606.47,534.22,2023-09-18
+Commercial,British Columbia,936.18,1075.67,2023-12-05
+Health,Saskatchewan,3019.36,380.55,2023-06-22
+Travel,Alberta,998.03,1745.21,2023-09-22
+Commercial,Ontario,0.82,1648.01,2023-10-20
+Travel,Ontario,10583.19,1875.4,2023-01-07
+Commercial,British Columbia,13554.73,1037.62,2023-07-18
+Health,Alberta,2537.03,439.51,2023-04-28
+Auto,Saskatchewan,12546.2,343.43,2023-01-31
+Life,Ontario,1781.06,1363.23,2023-11-18
+Commercial,Ontario,8982.41,436.11,2023-10-22
+Health,Saskatchewan,2979.89,1325.88,2023-08-26
+Travel,Manitoba,5037.36,1967.39,2023-09-29
+Travel,Saskatchewan,14441.14,1535.65,2023-06-21
+Life,Alberta,3171.32,1555.85,2023-12-09
+Home,Quebec,1727.35,666.1,2023-03-05
+Home,Saskatchewan,3818.47,1055.78,2023-12-11
+Health,Manitoba,8812.98,726.23,2023-03-14
+Life,Alberta,2759.53,835.37,2023-07-25
+Auto,Saskatchewan,18.49,1523.05,2023-03-21
+Travel,Ontario,1324.11,1368.21,2023-02-05
+Auto,Alberta,3014.17,778.33,2023-11-27
+Health,Ontario,2595.33,725.95,2023-10-18
+Commercial,Saskatchewan,4793.07,395.42,2023-05-02
+Auto,Saskatchewan,10511.94,1643.34,2023-10-31
+Home,Quebec,10.7,1148.85,2023-05-17
+Travel,Quebec,8012.43,1397.84,2023-06-22
+Health,Manitoba,1592.97,1549.65,2023-09-17
+Home,Manitoba,1578.29,1784.19,2023-01-21
+Home,British Columbia,1123.68,825.67,2023-04-29
+Travel,Saskatchewan,7602.27,336.51,2023-05-13
+Travel,British Columbia,14327.89,1954.96,2023-08-03
+Commercial,Manitoba,492.18,1725.28,2023-06-26
+Health,Alberta,12163.03,369.34,2023-10-13
+Health,British Columbia,7422.86,308.51,2023-06-16
+Health,Alberta,1883.93,430.57,2023-06-01
+Health,Quebec,49.25,557.84,2023-10-20
+Commercial,Alberta,6338.58,409.36,2023-09-11
+Home,British Columbia,792.53,1973.48,2023-02-02
+Auto,British Columbia,0.52,1864.56,2023-11-29
+Health,Manitoba,4224.53,1737.52,2023-05-28
+Auto,Manitoba,4596.12,1559.19,2023-03-19
+Health,Alberta,18.94,1705.25,2023-06-28
+Life,British Columbia,0.53,1803.59,2023-01-15
+Home,Saskatchewan,10904.01,1102.69,2023-01-19
+Life,Manitoba,10251.48,1818.92,2023-05-04
+Commercial,Alberta,1467.81,1396.66,2023-02-19
+Auto,Manitoba,17684.04,341.68,2023-12-06
+Auto,British Columbia,13984.35,1489.37,2023-03-20
+Health,Quebec,473.24,332.83,2023-10-10
+Travel,Manitoba,2835.1,543.47,2023-03-30
+Health,Ontario,850.76,377.12,2023-11-23
+Auto,Quebec,15315.97,1548.84,2023-03-05
+Home,Saskatchewan,19103.69,1327.11,2023-02-16
+Home,Manitoba,5795.05,1744.1,2023-07-18
+Auto,Manitoba,7293.22,1875.17,2023-05-25
+Auto,Quebec,1663.08,390.44,2023-06-03
+Commercial,British Columbia,14946.52,384.32,2023-09-19
+Commercial,Manitoba,7449.24,1748.05,2023-04-27
+Home,Ontario,12290.43,1764.47,2023-03-18
+Travel,Ontario,8363.78,380.49,2023-01-23
+Home,Manitoba,2364.3,984.41,2023-09-07
+Commercial,British Columbia,18390.81,1473.47,2023-02-05
+Auto,Alberta,4046.48,1806.56,2023-05-24
+Auto,British Columbia,4833.93,394.18,2023-04-30
+Health,Saskatchewan,6694.95,466.28,2023-10-20
+Auto,Alberta,327.84,333.45,2023-09-23
+Travel,Saskatchewan,1511.67,1746.49,2023-06-13
+Life,Quebec,6549.22,762.09,2023-05-05
+Life,Quebec,920.97,1425.11,2023-03-07
+Auto,Alberta,18172.88,945.58,2023-02-28
+Home,Ontario,5070.58,967.3,2023-10-19
+Home,Saskatchewan,9565.88,1696.84,2023-05-18
+Life,British Columbia,9828.54,1905.95,2023-02-05
+Health,Quebec,6234.27,1481.62,2023-03-26
+Life,Alberta,680.05,1570.6,2023-05-30
+Travel,British Columbia,2481.65,1241.48,2023-08-29
+Auto,Alberta,526.69,1153.6,2023-08-23
+Travel,British Columbia,2732.34,1277.2,2023-10-22
+Life,Manitoba,346.7,1683.66,2023-04-27
+Health,Alberta,15811.91,768.9,2023-05-31
+Commercial,Ontario,5363.2,1611.12,2023-12-01
+Life,Manitoba,6640.6,1201.67,2023-06-18
+Life,Ontario,17799.7,1580.88,2023-07-08
+Auto,Quebec,9206.44,1669.22,2023-11-17
+Travel,Ontario,5343.85,1007.56,2023-06-18
+Life,Quebec,14027.8,836.83,2023-09-05
+Health,Saskatchewan,1539.71,571.57,2023-03-07
+Home,Manitoba,2482.41,1092.96,2023-07-20
+Health,Alberta,654.36,1754.0,2023-01-29
+Commercial,Ontario,2961.16,390.85,2023-02-17
+Auto,Quebec,2454.06,1129.85,2023-09-07
+Home,Ontario,5151.95,582.14,2023-12-09
+Health,Ontario,2968.6,1667.37,2023-03-22
+Commercial,Manitoba,3243.91,1285.88,2023-11-02
+Auto,Alberta,6535.4,890.35,2023-05-17
+Auto,British Columbia,8012.34,469.31,2023-05-15
+Auto,Manitoba,18113.25,809.36,2023-11-27
+Auto,Saskatchewan,2388.09,875.24,2023-01-10
+Home,Saskatchewan,4090.33,1972.55,2023-07-15
+Commercial,Quebec,481.25,1719.5,2023-04-10
+Auto,British Columbia,6713.35,1768.58,2023-07-06
+Home,Alberta,11958.04,1694.98,2023-05-20
+Home,Alberta,4560.72,1237.94,2023-05-23
+Auto,Manitoba,12696.26,1112.05,2023-01-16
+Travel,Saskatchewan,5717.6,1917.66,2023-11-02
+Commercial,British Columbia,15425.67,1254.83,2023-10-22
+Health,British Columbia,949.34,1989.5,2023-09-27
+Commercial,British Columbia,13323.54,1327.4,2023-05-02
+Home,Saskatchewan,1016.91,1930.61,2023-10-30
+Auto,Alberta,4269.22,1191.6,2023-02-02
+Home,Saskatchewan,12523.82,1881.04,2023-03-29
+Life,Saskatchewan,7.85,1812.37,2023-07-21
+Commercial,Quebec,174.01,1595.12,2023-04-24
+Life,Saskatchewan,15184.67,408.06,2023-06-30
+Life,Manitoba,2471.81,718.68,2023-09-13
+Health,Saskatchewan,19513.02,1230.97,2023-01-05
+Commercial,British Columbia,16196.05,847.92,2023-12-13
+Home,British Columbia,975.53,514.62,2023-09-04
+Home,Saskatchewan,5138.67,1706.69,2023-07-13
+Home,Quebec,6090.95,1736.05,2023-02-18
+Commercial,Quebec,1719.34,898.29,2023-12-23
+Auto,Ontario,19957.37,349.58,2023-08-24
+Home,Ontario,1516.25,1123.46,2023-12-01
+Health,Manitoba,1249.35,737.67,2023-01-16
+Home,Saskatchewan,105.54,1698.97,2023-05-19
+Travel,Alberta,183.43,1090.62,2023-10-26
+Health,Alberta,9210.61,1553.94,2023-10-13
+Life,Manitoba,15367.95,1992.33,2023-11-09
+Commercial,Saskatchewan,17345.1,538.82,2023-04-17
+Health,British Columbia,14942.18,522.24,2023-12-07
+Life,Manitoba,3736.93,1700.84,2023-04-17
+Home,Ontario,16654.58,1082.98,2023-06-26
+Health,Alberta,11029.17,629.45,2023-02-13
+Life,Alberta,2114.15,374.72,2023-09-02
+Life,Alberta,16879.0,1238.68,2023-09-23
+Travel,Quebec,6.34,1130.2,2023-04-13
+Home,Alberta,59.79,1547.45,2023-12-04
+Life,Saskatchewan,10.27,1171.12,2023-01-20
+Travel,Ontario,8836.98,543.13,2023-09-01
+Health,Manitoba,11062.57,1562.63,2023-11-19
+Commercial,British Columbia,15563.14,1946.31,2023-02-09
+Travel,Saskatchewan,14314.39,944.97,2023-06-28
+Auto,Alberta,11117.4,776.87,2023-12-03
+Travel,Ontario,1529.39,420.86,2023-12-04
+Travel,Ontario,13123.39,1894.49,2023-02-10
+Life,British Columbia,5148.61,1718.15,2023-08-02
+Auto,Saskatchewan,684.46,1104.13,2023-05-18
+Auto,Saskatchewan,2392.83,373.64,2023-01-19
+Auto,Ontario,3907.4,645.75,2023-03-06
+Auto,Manitoba,6637.8,1416.03,2023-05-15
+Travel,Alberta,2465.42,1232.49,2023-02-26
+Health,Alberta,11896.03,1547.26,2023-05-27
+Health,British Columbia,13827.74,446.23,2023-08-31
+Auto,British Columbia,7175.52,1998.54,2023-11-25
+Life,Saskatchewan,3609.36,1350.01,2023-01-23
+Health,Alberta,604.44,1138.68,2023-03-08
+Life,Ontario,189.39,1723.93,2023-11-17
+Home,Alberta,6208.27,508.16,2023-11-15
+Commercial,Quebec,19028.97,1645.63,2023-07-21
+Commercial,Quebec,4889.99,1815.2,2023-04-08
+Home,Alberta,11423.19,584.77,2023-05-24
+Travel,Ontario,11276.15,1619.99,2023-03-27
+Auto,Manitoba,1176.71,1136.19,2023-11-23
+Life,British Columbia,4122.05,455.24,2023-04-07
+Auto,British Columbia,6834.9,1459.55,2023-03-18
+Auto,British Columbia,984.13,578.46,2023-08-30
+Travel,Quebec,19232.19,1423.04,2023-10-11
+Home,Quebec,9107.82,1091.81,2023-06-05
+Health,British Columbia,7519.13,766.63,2023-08-15
+Home,Alberta,14985.45,1313.22,2023-01-16
+Commercial,Alberta,5799.19,1724.15,2023-01-20
+Home,Alberta,21.57,1090.88,2023-10-25
+Health,Ontario,9951.82,1689.63,2023-01-23
+Life,Manitoba,4136.55,1396.95,2023-12-30
+Commercial,British Columbia,55.45,1951.61,2023-12-21
+Health,Saskatchewan,2051.98,463.63,2023-12-01
+Home,Alberta,0.52,1781.58,2023-01-23
+Travel,British Columbia,11635.59,1840.94,2023-11-27
+Life,Saskatchewan,2576.82,1129.57,2023-02-12
+Health,Saskatchewan,644.57,1676.87,2023-03-07
+Health,Ontario,18125.32,417.48,2023-02-04
+Health,Alberta,2545.7,675.04,2023-04-14
+Travel,British Columbia,15858.41,1681.16,2023-10-15
+Home,Manitoba,3072.89,885.16,2023-09-03
+Commercial,Manitoba,266.41,430.78,2023-10-13
+Life,Quebec,570.4,1125.84,2023-09-07
+Auto,Ontario,274.33,1526.54,2023-08-17
+Auto,Quebec,11326.57,403.22,2023-04-22
+Travel,Saskatchewan,6987.56,808.65,2023-11-03
+Home,Saskatchewan,1863.72,606.82,2023-04-03
+Commercial,Quebec,10621.68,1925.99,2023-05-21
+Travel,Quebec,14547.11,1344.02,2023-09-07
+Commercial,Quebec,12535.3,1893.34,2023-03-10
+Health,Quebec,4378.27,1733.51,2023-12-31
+Auto,Quebec,402.93,1424.6,2023-01-08
+Health,British Columbia,10538.81,1318.86,2023-09-16
+Life,Quebec,4864.84,1198.21,2023-04-07
+Commercial,Alberta,206.14,1265.49,2023-06-30
+Health,Ontario,1317.42,789.71,2023-03-13
+Auto,Saskatchewan,11864.27,673.37,2023-12-09
+Life,Saskatchewan,18862.73,1937.68,2023-09-06
+Travel,Saskatchewan,9637.17,1931.45,2023-10-30
+Health,Manitoba,15148.12,522.8,2023-03-21
+Life,Alberta,12894.24,1419.28,2023-01-30
+Health,Alberta,1181.87,1797.39,2023-03-09
+Home,Saskatchewan,210.72,1064.12,2023-08-09
+Auto,Ontario,1317.46,1348.36,2023-02-10
+Health,Ontario,17918.19,710.07,2023-07-29
+Travel,Quebec,1900.15,1618.35,2023-12-23
+Commercial,Quebec,5081.03,988.42,2023-02-25
+Home,British Columbia,5068.38,1388.48,2023-06-17
+Health,Manitoba,3633.99,319.79,2023-03-03
+Life,Ontario,13536.72,1543.59,2023-02-06
+Auto,Manitoba,3648.02,547.25,2023-01-03
+Health,British Columbia,6588.63,1933.84,2023-05-13
+Commercial,Manitoba,17333.12,1654.2,2023-09-22
+Life,Saskatchewan,9215.0,1131.46,2023-01-18
+Health,Quebec,5301.44,1887.44,2023-10-13
+Health,British Columbia,1.44,992.3,2023-10-02
+Commercial,Ontario,6591.27,476.77,2023-11-24
+Home,Saskatchewan,2242.1,1233.67,2023-09-10
+Life,Ontario,16337.26,922.89,2023-12-16
+Life,Alberta,2347.42,669.17,2023-12-26
+Auto,Manitoba,3218.81,1686.44,2023-01-10
+Travel,British Columbia,15118.22,1807.13,2023-10-10
+Travel,Alberta,7346.38,937.85,2023-12-13
+Health,Ontario,1856.47,778.22,2023-11-25
+Commercial,British Columbia,16563.94,1579.45,2023-05-19
+Auto,Ontario,2681.94,743.6,2023-05-12
+Life,Quebec,13993.4,1672.13,2023-03-12
+Health,Quebec,9919.78,1422.35,2023-05-31
+Life,Saskatchewan,10316.79,330.78,2023-06-07
+Commercial,British Columbia,15433.99,456.44,2023-10-12
+Travel,Ontario,3143.26,544.09,2023-04-18
+Home,Alberta,858.81,1074.34,2023-09-08
+Commercial,British Columbia,2009.26,1912.86,2023-12-10
+Home,Saskatchewan,12430.44,1349.73,2023-04-20
+Life,Manitoba,277.26,400.04,2023-07-06
+Home,Ontario,4496.2,1993.24,2023-03-06
+Health,British Columbia,2251.77,1853.94,2023-03-24
+Life,Saskatchewan,8253.21,842.48,2023-03-21
+Auto,Manitoba,10686.11,740.73,2023-03-18
+Life,British Columbia,8635.46,1107.14,2023-03-24
+Commercial,British Columbia,7161.13,1530.72,2023-02-09
+Home,Saskatchewan,12597.4,791.63,2023-08-13
+Commercial,Alberta,17964.07,983.24,2023-06-12
+Health,British Columbia,3635.33,1059.15,2023-11-06
+Health,British Columbia,2589.51,503.43,2023-01-21
+Travel,Manitoba,13229.47,1922.58,2023-06-18
+Health,Manitoba,4781.3,620.42,2023-04-02
+Life,Ontario,2222.07,1375.09,2023-06-24
+Auto,Alberta,2383.46,444.95,2023-03-08
+Travel,Quebec,5326.43,1543.61,2023-09-20
+Health,Quebec,1075.25,1342.84,2023-04-22
+Auto,Alberta,1575.31,919.44,2023-07-17
+Life,British Columbia,17011.45,1598.7,2023-06-18
+Health,Alberta,1565.81,399.66,2023-09-02
+Auto,Saskatchewan,11.34,1131.05,2023-08-11
+Travel,Manitoba,10520.71,1261.42,2023-04-03
+Home,Quebec,3151.17,737.36,2023-06-20
+Health,Saskatchewan,372.02,848.79,2023-06-04
+Commercial,Manitoba,2397.0,1873.05,2023-07-05
+Commercial,Saskatchewan,5334.09,843.92,2023-06-19
+Home,Alberta,3409.23,836.61,2023-09-21
+Commercial,Saskatchewan,8348.74,1576.53,2023-11-13
+Commercial,Alberta,3346.5,1077.05,2023-03-13
+Commercial,British Columbia,6160.17,499.09,2023-10-26
+Auto,Manitoba,3460.29,1583.7,2023-09-07
+Health,Saskatchewan,2205.92,1557.83,2023-06-11
+Life,Quebec,7.73,1705.27,2023-07-13
+Auto,British Columbia,6901.74,1923.29,2023-11-04
+Home,Alberta,2219.52,302.62,2023-05-12
+Life,Quebec,396.08,1200.54,2023-02-17
+Home,Saskatchewan,9826.62,1621.19,2023-08-29
+Health,Saskatchewan,4921.6,1464.13,2023-02-26
+Home,Alberta,2188.14,443.88,2023-04-05
+Auto,Saskatchewan,17656.11,952.74,2023-03-28
+Home,Quebec,40.91,367.13,2023-02-19
+Commercial,Alberta,6012.4,600.95,2023-06-14
+Life,British Columbia,7346.18,578.61,2023-10-26
+Commercial,Ontario,1965.85,1404.22,2023-07-05
+Health,Alberta,32.83,1876.88,2023-11-14
+Auto,Manitoba,7572.9,1521.4,2023-05-19
+Auto,Quebec,1506.02,647.88,2023-01-16
+Auto,British Columbia,103.5,1112.13,2023-06-05
+Commercial,Alberta,3039.24,791.25,2023-03-27
+Travel,Saskatchewan,12737.69,1661.24,2023-12-24
+Travel,British Columbia,661.14,1740.37,2023-01-12
+Home,Saskatchewan,6068.06,1003.48,2023-09-05
+Life,Ontario,138.04,418.71,2023-06-07
+Life,Alberta,2381.7,1952.11,2023-04-14
+Life,Saskatchewan,3998.87,900.11,2023-03-19
+Travel,Saskatchewan,19205.28,659.35,2023-07-13
+Life,Ontario,147.72,829.54,2023-04-17
+Commercial,Ontario,17094.93,1319.47,2023-07-05
+Life,British Columbia,10862.8,772.87,2023-07-19
+Commercial,British Columbia,980.72,1662.74,2023-07-09
+Home,Ontario,0.02,338.67,2023-10-12
+Health,Ontario,12689.09,908.81,2023-07-14
+Home,British Columbia,16756.54,601.0,2023-11-13
+Life,British Columbia,3771.54,620.24,2023-07-31
+Home,Ontario,8.68,1611.13,2023-10-23
+Auto,British Columbia,5998.15,378.67,2023-12-29
+Life,Alberta,7441.43,331.64,2023-03-31
+Life,Alberta,1637.07,477.01,2023-04-13
+Commercial,Quebec,21.34,1485.15,2023-02-16
+Health,Quebec,6785.39,1878.92,2023-07-05
+Home,Alberta,5406.72,939.99,2023-04-08
+Life,Ontario,3508.14,1858.95,2023-03-02
+Health,British Columbia,11211.89,878.77,2023-02-02
+Home,Quebec,349.8,1118.56,2023-08-14
+Travel,Alberta,3049.82,973.37,2023-03-15
+Home,Manitoba,7087.73,1604.4,2023-02-24
+Health,Ontario,8564.44,487.82,2023-07-30
+Life,Ontario,693.76,497.93,2023-12-13
+Travel,Quebec,6427.39,1713.78,2023-11-27
+Life,Saskatchewan,5.94,1583.28,2023-11-22
+Health,Saskatchewan,5412.87,1467.99,2023-06-16
+Home,British Columbia,4392.93,804.47,2023-11-05
+Commercial,Quebec,6870.09,1161.57,2023-10-05
+Travel,Manitoba,7050.06,1834.12,2023-02-04
+Auto,Quebec,368.35,752.18,2023-12-20
+Commercial,Ontario,959.09,759.46,2023-03-25
+Health,British Columbia,7933.35,1746.35,2023-09-30
+Life,Alberta,7267.65,436.95,2023-07-03
+Health,Manitoba,3683.41,1092.43,2023-05-29
+Auto,British Columbia,114.01,1004.7,2023-10-20
+Auto,British Columbia,2288.43,1276.38,2023-07-09
+Home,Ontario,10770.55,416.6,2023-04-08

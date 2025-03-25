@@ -1,0 +1,1001 @@
+CustomerID,Age,Gender,Province,Policy_Premium,Num_Claims,Frequency,Recency,Monetary,Historical_CLV,Customer_Feedback,Segment
+CUST0001,86,Female,Manitoba,1189.89,4,8,56,12726.99,9495.24,Neutral,2
+CUST0002,33,Female,New Brunswick,1343.12,2,4,86,9811.52,5348.9,Very satisfied,2
+CUST0003,42,Female,British Columbia,1304.45,5,3,83,17097.96,3860.06,Excellent service,2
+CUST0004,86,Female,Quebec,1881.84,0,6,220,1328.48,11329.93,Very satisfied,3
+CUST0005,61,Male,British Columbia,447.74,2,3,133,9215.82,1308.36,Excellent service,1
+CUST0006,74,Female,Ontario,1102.31,3,9,39,9338.45,9861.08,Excellent service,2
+CUST0007,19,Female,Nova Scotia,1064.16,2,9,220,1665.52,9576.89,Satisfied,3
+CUST0008,80,Male,Nova Scotia,1724.44,5,12,67,13937.69,20616.75,Satisfied,2
+CUST0009,31,Male,Ontario,544.26,1,6,235,7288.67,3315.21,Excellent service,3
+CUST0010,59,Male,Manitoba,359.96,3,2,297,16169.0,620.76,Excellent service,1
+CUST0011,48,Male,Manitoba,1957.91,1,12,321,10170.76,23484.14,Satisfied,0
+CUST0012,52,Male,Quebec,949.9,2,11,312,19836.16,10519.82,Excellent service,0
+CUST0013,87,Female,Newfoundland and Labrador,1194.08,4,4,355,6041.86,4769.45,Neutral,1
+CUST0014,35,Male,Nova Scotia,973.35,1,8,248,6115.18,7804.61,Very satisfied,3
+CUST0015,52,Female,Quebec,1288.66,4,6,191,10536.67,7661.2,Poor service,1
+CUST0016,35,Male,Nova Scotia,1157.46,3,3,326,10810.8,3486.63,Excellent service,1
+CUST0017,70,Female,Manitoba,1908.21,3,11,9,8261.7,21036.5,Poor service,2
+CUST0018,66,Male,New Brunswick,1904.88,2,7,22,15176.86,13244.42,Excellent service,2
+CUST0019,66,Female,Manitoba,1702.91,2,5,79,16937.01,8462.81,Excellent service,2
+CUST0020,79,Female,Prince Edward Island,327.22,2,4,341,11710.35,1298.95,Neutral,1
+CUST0021,52,Female,Newfoundland and Labrador,1967.6,3,3,137,16778.14,5961.98,Excellent service,1
+CUST0022,40,Male,Ontario,1487.73,4,5,358,9571.51,7363.57,Neutral,1
+CUST0023,85,Female,British Columbia,1195.43,4,5,338,2319.14,5994.02,Poor service,3
+CUST0024,40,Male,Nova Scotia,1095.32,5,1,350,16228.45,1093.13,Unsatisfied,1
+CUST0025,71,Male,Quebec,869.83,0,3,183,6430.26,2596.86,Very satisfied,1
+CUST0026,58,Male,Ontario,1470.51,3,4,349,8840.99,5949.32,Very satisfied,1
+CUST0027,57,Male,Quebec,1936.18,1,6,55,7359.31,11705.27,Satisfied,2
+CUST0028,81,Male,British Columbia,1870.28,5,6,293,12595.71,11168.9,Very satisfied,1
+CUST0029,34,Female,Nova Scotia,969.36,1,8,226,12885.75,7690.17,Neutral,0
+CUST0030,58,Female,New Brunswick,874.92,0,6,160,16532.03,5339.91,Unsatisfied,2
+CUST0031,72,Female,Nova Scotia,658.03,0,6,280,6648.98,3979.04,Satisfied,3
+CUST0032,28,Female,Alberta,1393.33,2,4,200,15413.89,5601.76,Excellent service,1
+CUST0033,24,Male,Manitoba,1762.73,3,9,192,10706.77,15940.14,Very satisfied,0
+CUST0034,82,Male,British Columbia,1456.16,4,10,317,9584.5,14465.65,Poor service,0
+CUST0035,86,Male,Saskatchewan,1394.71,2,8,10,6269.11,11249.97,Excellent service,2
+CUST0036,56,Female,Saskatchewan,1851.55,0,8,349,5833.11,14801.96,Very satisfied,3
+CUST0037,41,Female,Ontario,810.85,3,6,136,11266.49,4816.25,Unsatisfied,2
+CUST0038,40,Male,Manitoba,1018.79,5,4,67,15933.88,4162.13,Very satisfied,2
+CUST0039,89,Female,Newfoundland and Labrador,1804.12,0,8,95,10320.29,14462.53,Neutral,2
+CUST0040,50,Male,Quebec,1676.37,5,4,12,10222.46,6640.58,Poor service,2
+CUST0041,71,Male,Alberta,1000.41,0,12,293,5161.8,12058.64,Very satisfied,3
+CUST0042,52,Female,Quebec,810.22,1,9,103,2547.57,7245.85,Excellent service,3
+CUST0043,55,Female,Prince Edward Island,1700.19,0,2,213,2808.69,3321.32,Neutral,3
+CUST0044,49,Male,Quebec,426.08,2,12,170,3632.72,5066.68,Excellent service,3
+CUST0045,67,Male,Saskatchewan,1872.88,2,5,262,16763.97,9274.33,Unsatisfied,1
+CUST0046,46,Male,New Brunswick,655.55,3,1,238,18819.19,751.29,Unsatisfied,1
+CUST0047,30,Female,Quebec,690.77,5,8,15,11143.38,5490.22,Excellent service,2
+CUST0048,27,Female,Newfoundland and Labrador,1393.71,4,6,158,19523.29,8392.61,Neutral,2
+CUST0049,26,Male,Quebec,1690.08,5,1,285,15698.17,1751.93,Poor service,1
+CUST0050,68,Female,Saskatchewan,1175.97,2,10,150,12889.79,11710.88,Unsatisfied,0
+CUST0051,82,Female,Prince Edward Island,1949.77,5,5,289,14412.74,9701.16,Poor service,1
+CUST0052,65,Female,Quebec,826.62,5,8,190,19047.44,6590.17,Excellent service,0
+CUST0053,75,Female,Ontario,1325.8,4,6,28,2287.72,7971.77,Very satisfied,3
+CUST0054,89,Male,Alberta,342.34,0,3,365,14128.95,1005.75,Very satisfied,1
+CUST0055,50,Male,British Columbia,1342.96,0,1,249,8904.46,1277.5,Very satisfied,1
+CUST0056,61,Female,Manitoba,1481.8,0,4,280,15812.14,5838.63,Neutral,1
+CUST0057,29,Male,Alberta,703.94,0,4,13,16100.2,2912.28,Poor service,2
+CUST0058,84,Male,Prince Edward Island,1658.74,3,3,75,13334.21,4881.57,Poor service,2
+CUST0059,64,Female,Manitoba,573.54,3,8,68,10861.11,4495.93,Satisfied,2
+CUST0060,35,Female,British Columbia,353.61,0,6,364,13990.64,2132.48,Poor service,0
+CUST0061,69,Female,Prince Edward Island,410.79,2,5,201,19073.46,2094.1,Neutral,1
+CUST0062,55,Male,Prince Edward Island,1624.06,0,6,182,6602.64,9739.9,Poor service,3
+CUST0063,76,Male,Saskatchewan,460.98,4,3,197,9173.57,1456.94,Neutral,1
+CUST0064,30,Male,Prince Edward Island,1090.65,0,3,271,1642.98,3313.71,Poor service,3
+CUST0065,34,Female,Quebec,1379.36,1,12,235,6350.65,16622.72,Excellent service,3
+CUST0066,89,Male,Ontario,515.01,2,12,254,10036.1,6141.94,Satisfied,0
+CUST0067,53,Female,New Brunswick,353.4,4,4,335,9422.86,1477.43,Satisfied,1
+CUST0068,49,Female,British Columbia,821.36,4,12,358,1081.95,9805.02,Poor service,3
+CUST0069,24,Male,Alberta,1325.16,4,8,305,18900.02,10510.36,Very satisfied,0
+CUST0070,34,Male,Prince Edward Island,495.92,1,5,255,11433.06,2476.65,Neutral,1
+CUST0071,44,Female,New Brunswick,716.91,4,3,71,6394.25,2139.28,Very satisfied,2
+CUST0072,25,Male,Nova Scotia,936.83,3,2,341,18169.15,1885.68,Unsatisfied,1
+CUST0073,85,Female,Newfoundland and Labrador,601.04,5,7,335,9646.47,4272.17,Neutral,0
+CUST0074,31,Male,Quebec,1414.38,4,4,83,18560.95,5690.03,Unsatisfied,2
+CUST0075,55,Female,Alberta,1949.89,3,8,76,16067.56,15675.37,Satisfied,2
+CUST0076,49,Female,Quebec,1089.49,1,11,287,17771.32,12071.14,Unsatisfied,0
+CUST0077,41,Male,British Columbia,474.96,1,1,240,5496.63,469.02,Neutral,1
+CUST0078,40,Female,Manitoba,1507.18,3,1,362,13829.59,1572.56,Excellent service,1
+CUST0079,18,Female,Newfoundland and Labrador,1426.21,5,6,178,15858.67,8489.09,Satisfied,2
+CUST0080,85,Male,Alberta,1747.2,4,3,179,17683.85,5227.12,Very satisfied,1
+CUST0081,22,Male,Saskatchewan,386.34,2,5,234,10833.09,1948.06,Unsatisfied,1
+CUST0082,42,Female,Ontario,1562.97,3,4,218,12810.54,6347.21,Unsatisfied,1
+CUST0083,38,Male,Alberta,464.59,0,7,319,5302.96,3296.48,Very satisfied,3
+CUST0084,39,Female,Saskatchewan,649.33,3,2,133,15770.14,1395.72,Poor service,1
+CUST0085,72,Male,Manitoba,1753.84,2,9,245,14158.51,15769.86,Unsatisfied,0
+CUST0086,39,Female,Nova Scotia,1454.48,0,5,235,1310.65,7239.54,Satisfied,3
+CUST0087,73,Male,Nova Scotia,832.65,4,2,358,13889.51,1568.0,Neutral,1
+CUST0088,41,Female,Nova Scotia,1050.96,1,9,335,2436.78,9549.83,Excellent service,3
+CUST0089,85,Female,Quebec,1652.43,0,3,318,9213.52,4929.41,Unsatisfied,1
+CUST0090,34,Male,Manitoba,1451.3,4,10,293,10759.35,14473.38,Neutral,0
+CUST0091,37,Female,Saskatchewan,971.07,2,9,48,2087.74,8797.32,Poor service,3
+CUST0092,29,Female,New Brunswick,888.32,1,6,317,7181.2,5264.96,Neutral,3
+CUST0093,69,Male,Nova Scotia,1772.8,2,5,332,2093.42,8780.24,Neutral,3
+CUST0094,20,Male,Newfoundland and Labrador,1710.01,4,8,243,13615.68,13694.17,Very satisfied,0
+CUST0095,44,Male,Saskatchewan,386.29,3,11,215,3109.18,4185.38,Unsatisfied,3
+CUST0096,47,Male,Saskatchewan,863.88,3,3,170,10136.37,2603.68,Satisfied,1
+CUST0097,46,Female,Manitoba,423.6,3,5,70,15352.68,2061.14,Neutral,2
+CUST0098,44,Male,Prince Edward Island,1668.96,1,8,54,11160.39,13451.58,Poor service,2
+CUST0099,37,Female,New Brunswick,1892.5,3,12,354,3316.28,22809.51,Satisfied,3
+CUST0100,27,Male,Ontario,776.83,1,7,118,13922.33,5454.06,Poor service,2
+CUST0101,64,Female,Saskatchewan,1480.53,2,1,179,8435.29,1539.17,Unsatisfied,1
+CUST0102,79,Female,Manitoba,1824.68,5,10,185,8656.36,18219.7,Excellent service,3
+CUST0103,80,Male,Alberta,902.16,5,6,333,5704.21,5485.54,Excellent service,3
+CUST0104,63,Male,British Columbia,676.25,5,12,99,19557.3,8032.29,Neutral,0
+CUST0105,32,Male,British Columbia,1212.42,4,10,32,16426.47,12171.38,Unsatisfied,2
+CUST0106,44,Male,Nova Scotia,1728.11,0,4,88,8641.71,6961.72,Poor service,2
+CUST0107,70,Male,Ontario,752.55,5,10,358,8946.94,7457.41,Neutral,0
+CUST0108,72,Male,Quebec,486.07,1,12,150,18549.93,5745.69,Unsatisfied,0
+CUST0109,70,Female,Newfoundland and Labrador,1290.68,2,7,73,12085.73,9100.45,Very satisfied,2
+CUST0110,37,Male,Quebec,381.46,3,1,351,8605.19,422.28,Very satisfied,1
+CUST0111,20,Male,Alberta,1994.9,0,11,323,16892.42,21968.6,Very satisfied,0
+CUST0112,83,Male,New Brunswick,1192.75,1,12,92,19616.23,14219.43,Satisfied,2
+CUST0113,61,Male,Newfoundland and Labrador,1055.11,2,10,52,5546.0,10514.68,Neutral,3
+CUST0114,81,Male,Ontario,1753.34,4,8,102,2472.59,13990.8,Very satisfied,3
+CUST0115,74,Male,Newfoundland and Labrador,1520.8,0,1,290,17428.19,1562.64,Very satisfied,1
+CUST0116,70,Female,Alberta,1286.63,5,9,125,9629.69,11630.1,Very satisfied,2
+CUST0117,49,Female,Nova Scotia,345.64,1,3,80,2132.97,961.79,Satisfied,3
+CUST0118,26,Male,Nova Scotia,1654.94,4,12,221,1541.5,19843.54,Excellent service,3
+CUST0119,84,Male,Quebec,347.79,3,8,336,18092.55,2723.98,Poor service,0
+CUST0120,73,Female,Ontario,1856.51,0,11,347,4723.66,20360.22,Unsatisfied,3
+CUST0121,46,Male,Newfoundland and Labrador,846.64,0,2,204,617.49,1705.1,Satisfied,3
+CUST0122,73,Female,Quebec,528.03,4,1,147,6545.99,473.66,Very satisfied,1
+CUST0123,44,Female,Quebec,1643.52,3,8,335,10116.85,13165.53,Satisfied,0
+CUST0124,54,Male,Manitoba,645.41,2,8,205,3789.5,5200.04,Poor service,3
+CUST0125,34,Male,Ontario,816.48,4,6,149,15027.95,4970.82,Very satisfied,2
+CUST0126,41,Female,Newfoundland and Labrador,1403.09,2,4,105,2107.56,5700.77,Very satisfied,3
+CUST0127,28,Male,Prince Edward Island,1465.95,3,5,271,7141.0,7394.27,Satisfied,3
+CUST0128,50,Male,Prince Edward Island,1630.3,5,2,15,18311.52,3348.9,Very satisfied,2
+CUST0129,62,Female,New Brunswick,428.65,0,5,294,7446.78,2078.89,Unsatisfied,1
+CUST0130,73,Female,Quebec,710.8,4,10,261,10812.74,7201.31,Poor service,0
+CUST0131,35,Male,Saskatchewan,665.73,3,1,219,6555.64,640.99,Excellent service,1
+CUST0132,30,Male,Ontario,1027.5,0,6,51,7206.21,6131.39,Poor service,2
+CUST0133,66,Male,Quebec,1370.32,3,4,262,4804.53,5455.95,Excellent service,3
+CUST0134,56,Male,Ontario,1062.68,2,11,348,8714.79,11708.05,Neutral,0
+CUST0135,27,Male,Ontario,1251.64,2,3,17,13857.1,3808.11,Satisfied,2
+CUST0136,69,Female,New Brunswick,1615.12,2,11,294,2027.37,17813.39,Neutral,3
+CUST0137,31,Male,Ontario,1592.0,4,1,194,10692.11,1684.24,Satisfied,1
+CUST0138,67,Female,British Columbia,944.93,0,8,150,10685.24,7513.44,Very satisfied,2
+CUST0139,25,Female,Quebec,857.67,5,6,31,17115.12,5215.1,Neutral,2
+CUST0140,61,Male,British Columbia,772.3,4,4,295,2245.61,3153.55,Excellent service,3
+CUST0141,88,Female,Ontario,1699.63,2,3,360,9200.3,5140.66,Excellent service,1
+CUST0142,78,Female,Ontario,797.76,0,2,324,13004.57,1548.27,Satisfied,1
+CUST0143,72,Male,Manitoba,900.81,1,3,68,19671.05,2729.92,Satisfied,2
+CUST0144,30,Female,Nova Scotia,1554.57,4,9,9,12313.83,13954.99,Satisfied,2
+CUST0145,59,Female,Ontario,447.38,1,5,153,8158.19,2219.02,Neutral,3
+CUST0146,88,Male,Newfoundland and Labrador,1821.88,1,4,125,2597.32,7316.7,Unsatisfied,3
+CUST0147,45,Male,Alberta,1736.34,0,11,323,17879.61,19161.87,Poor service,0
+CUST0148,48,Female,Ontario,685.47,3,10,312,3020.67,6910.69,Very satisfied,3
+CUST0149,87,Male,Nova Scotia,749.4,4,9,45,5920.76,6764.11,Neutral,2
+CUST0150,44,Female,Nova Scotia,628.99,2,1,112,15070.67,632.73,Very satisfied,1
+CUST0151,73,Male,Alberta,1296.84,0,6,28,17543.39,7826.02,Satisfied,2
+CUST0152,36,Female,Manitoba,1952.9,0,11,121,1221.88,21497.36,Poor service,3
+CUST0153,86,Female,Ontario,1236.25,5,12,19,9980.15,14864.03,Excellent service,2
+CUST0154,81,Male,Alberta,1551.24,5,4,337,6194.27,6179.71,Very satisfied,1
+CUST0155,61,Male,Ontario,1349.82,0,1,333,5389.36,1348.0,Neutral,1
+CUST0156,44,Male,Quebec,1683.1,0,11,144,16620.56,18513.67,Poor service,0
+CUST0157,47,Male,British Columbia,1227.35,4,3,341,17306.14,3638.84,Excellent service,1
+CUST0158,60,Male,New Brunswick,1700.31,1,9,314,15623.07,15364.72,Neutral,0
+CUST0159,19,Female,Prince Edward Island,787.09,1,6,155,19081.22,4729.77,Satisfied,2
+CUST0160,80,Male,Nova Scotia,899.51,4,6,101,17662.95,5352.78,Excellent service,2
+CUST0161,63,Male,Ontario,427.54,1,11,25,6233.7,4755.68,Excellent service,2
+CUST0162,69,Female,Ontario,1964.85,5,7,352,10604.36,13787.53,Very satisfied,0
+CUST0163,73,Female,Newfoundland and Labrador,1273.51,1,5,176,14329.46,6352.5,Neutral,1
+CUST0164,76,Male,Saskatchewan,313.05,0,4,179,13242.51,1199.2,Neutral,1
+CUST0165,79,Male,Saskatchewan,1091.83,0,5,269,2357.52,5437.51,Poor service,3
+CUST0166,64,Male,Saskatchewan,1058.42,0,1,33,5475.42,1063.08,Very satisfied,2
+CUST0167,65,Male,Prince Edward Island,1523.71,5,10,304,8945.47,15254.39,Very satisfied,0
+CUST0168,30,Female,Alberta,383.31,4,4,325,5652.34,1513.46,Very satisfied,1
+CUST0169,34,Female,Newfoundland and Labrador,1841.02,0,8,247,15913.52,14744.18,Poor service,0
+CUST0170,71,Male,Alberta,514.81,2,12,191,11564.49,6080.12,Poor service,0
+CUST0171,31,Female,British Columbia,798.43,4,12,60,3747.14,9633.09,Satisfied,3
+CUST0172,74,Female,New Brunswick,1768.09,5,5,169,9338.27,8850.73,Very satisfied,1
+CUST0173,78,Male,Newfoundland and Labrador,1762.88,3,6,204,10657.97,10660.84,Neutral,1
+CUST0174,31,Female,Ontario,1484.44,4,5,18,3326.34,7328.59,Satisfied,3
+CUST0175,58,Female,Quebec,914.02,0,2,132,7017.97,1841.52,Excellent service,1
+CUST0176,74,Female,Quebec,1086.28,5,10,148,11816.54,10816.76,Poor service,0
+CUST0177,28,Female,Quebec,862.1,2,5,81,9754.3,4274.84,Unsatisfied,2
+CUST0178,29,Female,Newfoundland and Labrador,1443.13,0,2,56,6039.52,2901.31,Excellent service,2
+CUST0179,35,Male,Saskatchewan,989.8,4,10,357,791.6,9986.17,Satisfied,3
+CUST0180,33,Female,Manitoba,941.91,3,8,136,17227.22,7588.95,Satisfied,2
+CUST0181,44,Male,Prince Edward Island,1881.78,4,6,263,5670.15,11247.29,Very satisfied,3
+CUST0182,80,Female,Prince Edward Island,1477.77,4,5,345,7618.62,7384.93,Poor service,1
+CUST0183,51,Female,Manitoba,667.86,2,7,54,17760.78,4621.05,Satisfied,2
+CUST0184,38,Male,New Brunswick,635.45,5,5,216,1365.58,3234.58,Satisfied,3
+CUST0185,26,Female,Newfoundland and Labrador,642.42,2,2,155,7345.82,1282.07,Poor service,1
+CUST0186,43,Female,Ontario,627.03,4,7,11,14432.63,4450.09,Poor service,2
+CUST0187,27,Male,Quebec,1702.88,3,4,334,14808.35,6847.96,Excellent service,1
+CUST0188,31,Male,Manitoba,442.05,3,4,149,9496.74,1814.83,Poor service,1
+CUST0189,32,Male,New Brunswick,1668.04,5,1,222,8352.27,1725.67,Very satisfied,1
+CUST0190,45,Male,Manitoba,793.09,4,9,350,7991.14,7152.01,Very satisfied,0
+CUST0191,28,Male,Newfoundland and Labrador,1073.85,1,4,359,2843.12,4342.59,Satisfied,3
+CUST0192,80,Female,Manitoba,484.86,1,3,340,14701.57,1465.54,Neutral,1
+CUST0193,45,Male,Nova Scotia,362.13,4,10,76,13596.31,3645.12,Satisfied,2
+CUST0194,47,Female,Nova Scotia,784.49,2,5,355,11193.11,3900.88,Unsatisfied,1
+CUST0195,73,Female,New Brunswick,1129.06,0,5,197,2743.42,5633.25,Satisfied,3
+CUST0196,65,Female,Nova Scotia,1558.06,4,1,87,13896.77,1622.16,Unsatisfied,1
+CUST0197,50,Female,Saskatchewan,389.76,0,9,350,3170.45,3430.82,Satisfied,3
+CUST0198,26,Female,Nova Scotia,465.87,4,3,102,14831.64,1482.37,Very satisfied,2
+CUST0199,44,Female,Alberta,1044.0,5,3,221,1789.86,3080.56,Neutral,3
+CUST0200,32,Female,Saskatchewan,1890.43,5,8,14,13598.05,15138.04,Satisfied,2
+CUST0201,63,Female,Prince Edward Island,1070.81,0,4,171,16743.54,4314.94,Neutral,1
+CUST0202,27,Male,Nova Scotia,610.23,2,5,342,8064.01,3114.86,Satisfied,1
+CUST0203,67,Female,Nova Scotia,1055.53,3,7,330,4416.03,7346.35,Unsatisfied,3
+CUST0204,77,Female,Prince Edward Island,431.88,0,3,24,15585.13,1271.98,Satisfied,2
+CUST0205,28,Female,Ontario,353.8,5,8,76,1103.7,2875.37,Very satisfied,3
+CUST0206,77,Male,Manitoba,1247.79,4,6,46,7540.85,7412.57,Satisfied,2
+CUST0207,50,Male,New Brunswick,1859.27,1,1,252,12080.8,1789.89,Neutral,1
+CUST0208,23,Male,Ontario,638.29,3,7,1,19552.51,4485.12,Neutral,2
+CUST0209,27,Male,Manitoba,1422.95,0,8,334,11041.72,11346.59,Unsatisfied,0
+CUST0210,85,Female,British Columbia,513.63,3,4,208,1758.92,1984.48,Satisfied,3
+CUST0211,84,Female,British Columbia,882.12,1,1,261,8642.77,931.24,Unsatisfied,1
+CUST0212,42,Male,New Brunswick,1584.85,1,2,160,14040.8,3221.25,Poor service,1
+CUST0213,45,Female,Quebec,904.01,5,5,327,14268.01,4512.72,Excellent service,1
+CUST0214,22,Female,British Columbia,1015.03,0,1,269,3983.0,1027.61,Poor service,1
+CUST0215,76,Male,Newfoundland and Labrador,316.81,5,3,80,10005.45,884.33,Unsatisfied,2
+CUST0216,48,Female,Quebec,977.35,1,7,266,3306.98,6906.23,Neutral,3
+CUST0217,67,Male,Quebec,1741.72,5,7,278,15822.65,12280.01,Poor service,0
+CUST0218,70,Female,Manitoba,643.27,3,4,70,2849.85,2595.0,Satisfied,3
+CUST0219,18,Female,Saskatchewan,608.26,5,12,337,11304.57,7341.39,Very satisfied,0
+CUST0220,61,Male,Manitoba,630.12,3,5,152,12744.02,3086.76,Neutral,2
+CUST0221,65,Male,Manitoba,1144.76,2,6,227,6339.59,6920.54,Very satisfied,3
+CUST0222,22,Female,Saskatchewan,372.05,4,6,231,7606.4,2330.7,Poor service,3
+CUST0223,62,Female,Saskatchewan,1332.95,3,9,310,15209.14,11974.72,Poor service,0
+CUST0224,24,Male,Quebec,1747.92,0,8,15,3914.4,13922.14,Neutral,3
+CUST0225,33,Male,Nova Scotia,955.83,4,12,231,12644.44,11565.37,Satisfied,0
+CUST0226,47,Male,Manitoba,690.11,5,10,153,14066.61,6889.08,Neutral,0
+CUST0227,26,Female,Manitoba,1687.37,2,8,75,17553.09,13419.13,Very satisfied,2
+CUST0228,66,Male,Newfoundland and Labrador,1693.36,0,4,292,19012.82,6679.58,Very satisfied,1
+CUST0229,72,Male,Alberta,467.27,2,4,73,5244.55,1890.16,Very satisfied,3
+CUST0230,24,Female,Newfoundland and Labrador,626.71,2,9,130,13305.12,5648.4,Excellent service,2
+CUST0231,48,Male,Nova Scotia,1782.32,5,10,133,7043.56,17801.81,Neutral,3
+CUST0232,58,Male,Prince Edward Island,639.94,4,3,225,3346.28,1854.61,Poor service,3
+CUST0233,30,Female,Saskatchewan,1653.49,4,8,158,5953.64,13261.04,Neutral,3
+CUST0234,85,Female,Nova Scotia,1030.36,1,1,6,3132.36,945.63,Poor service,2
+CUST0235,84,Male,Saskatchewan,1983.55,4,6,80,7211.75,11811.95,Excellent service,2
+CUST0236,42,Male,Prince Edward Island,1072.62,2,7,364,2703.25,7437.29,Unsatisfied,3
+CUST0237,42,Female,Alberta,879.74,0,5,302,6106.9,4483.12,Poor service,3
+CUST0238,62,Female,Ontario,673.09,5,1,227,3995.74,605.76,Unsatisfied,1
+CUST0239,28,Male,British Columbia,851.76,1,5,52,6090.19,4321.86,Very satisfied,2
+CUST0240,26,Female,Ontario,1403.9,5,2,224,3154.41,2806.13,Satisfied,3
+CUST0241,25,Female,Ontario,1559.03,4,6,3,11042.42,9363.04,Neutral,2
+CUST0242,39,Male,New Brunswick,1715.79,2,7,255,12305.16,12035.42,Poor service,0
+CUST0243,32,Male,Alberta,1371.33,4,11,83,16019.0,15061.66,Excellent service,2
+CUST0244,74,Male,Prince Edward Island,1466.74,3,2,23,15544.41,2860.13,Poor service,2
+CUST0245,54,Female,Manitoba,1074.6,0,7,128,17531.84,7519.77,Poor service,2
+CUST0246,80,Female,Quebec,1980.54,1,3,234,4367.63,5991.36,Neutral,3
+CUST0247,54,Female,Prince Edward Island,1691.76,5,1,167,15548.57,1595.13,Poor service,1
+CUST0248,68,Male,Newfoundland and Labrador,482.72,4,2,54,18331.41,951.87,Very satisfied,2
+CUST0249,21,Male,Newfoundland and Labrador,1734.01,5,4,176,2721.9,6847.08,Satisfied,3
+CUST0250,34,Male,New Brunswick,1367.76,0,11,104,6830.58,15098.07,Excellent service,3
+CUST0251,18,Female,Saskatchewan,815.9,2,2,62,18493.46,1634.97,Neutral,2
+CUST0252,65,Female,Prince Edward Island,588.09,5,3,81,5812.42,1723.05,Neutral,2
+CUST0253,31,Male,Prince Edward Island,859.7,1,9,232,7391.58,7833.09,Neutral,3
+CUST0254,69,Male,Saskatchewan,1147.97,4,5,330,19051.58,5715.4,Very satisfied,1
+CUST0255,60,Female,Newfoundland and Labrador,1104.84,0,8,223,11727.64,8802.32,Unsatisfied,0
+CUST0256,56,Male,Ontario,1648.1,2,3,15,10488.58,4944.24,Unsatisfied,2
+CUST0257,51,Male,Alberta,1176.63,4,6,263,702.52,7100.69,Very satisfied,3
+CUST0258,79,Male,Prince Edward Island,1213.19,3,3,244,13062.52,3671.09,Satisfied,1
+CUST0259,26,Female,Prince Edward Island,1930.67,1,9,330,10850.43,17294.21,Very satisfied,0
+CUST0260,55,Male,Quebec,436.79,1,7,88,780.95,3057.87,Unsatisfied,3
+CUST0261,30,Male,Nova Scotia,1388.65,5,7,140,5611.65,9793.12,Excellent service,3
+CUST0262,46,Female,Newfoundland and Labrador,902.55,1,2,97,3983.17,1740.89,Poor service,3
+CUST0263,27,Female,Newfoundland and Labrador,918.46,1,10,137,19623.12,9136.84,Excellent service,0
+CUST0264,20,Female,Quebec,884.77,3,3,296,1052.83,2617.05,Poor service,3
+CUST0265,44,Male,Alberta,1908.33,1,7,173,13138.27,13423.54,Poor service,2
+CUST0266,76,Female,British Columbia,1535.41,3,4,83,12453.06,6070.14,Very satisfied,2
+CUST0267,67,Female,Ontario,758.89,2,11,54,17407.02,8294.28,Very satisfied,2
+CUST0268,88,Female,Nova Scotia,1043.69,2,11,151,11470.63,11518.9,Neutral,0
+CUST0269,73,Male,Ontario,762.5,1,5,240,16170.49,3894.14,Excellent service,1
+CUST0270,27,Male,Alberta,1188.08,2,9,119,12427.36,10603.87,Satisfied,2
+CUST0271,63,Female,Newfoundland and Labrador,505.32,1,11,215,10798.35,5579.39,Satisfied,0
+CUST0272,35,Male,Prince Edward Island,1646.49,1,1,210,11441.17,1630.99,Neutral,1
+CUST0273,82,Female,New Brunswick,1281.49,1,9,139,7518.19,11609.6,Excellent service,3
+CUST0274,38,Female,Nova Scotia,730.49,1,6,117,11691.4,4411.16,Very satisfied,2
+CUST0275,77,Male,British Columbia,1071.16,1,11,232,9263.06,11867.39,Neutral,0
+CUST0276,19,Female,New Brunswick,1923.77,2,3,298,563.22,5767.99,Neutral,3
+CUST0277,78,Male,Manitoba,301.73,5,9,331,8560.61,2638.08,Excellent service,0
+CUST0278,72,Male,Nova Scotia,363.99,4,9,106,9029.11,3372.62,Neutral,2
+CUST0279,28,Male,British Columbia,1456.11,0,2,267,6880.48,2852.46,Poor service,1
+CUST0280,83,Male,Newfoundland and Labrador,1382.13,4,5,345,16628.16,6874.71,Poor service,1
+CUST0281,59,Male,Newfoundland and Labrador,1870.9,0,2,212,2007.34,3666.36,Excellent service,3
+CUST0282,57,Female,British Columbia,1249.16,3,9,33,19562.6,11311.45,Unsatisfied,2
+CUST0283,60,Female,Saskatchewan,370.69,1,11,322,19108.83,4011.55,Neutral,0
+CUST0284,77,Female,Manitoba,1877.87,3,9,69,10574.31,16989.67,Poor service,2
+CUST0285,76,Female,Manitoba,1695.4,2,7,140,19672.11,11859.17,Neutral,2
+CUST0286,60,Female,Alberta,1399.28,4,2,192,19867.32,2773.22,Unsatisfied,1
+CUST0287,88,Male,Ontario,342.31,4,5,328,13738.07,1676.62,Unsatisfied,1
+CUST0288,31,Female,Nova Scotia,387.29,4,5,220,14903.81,1971.1,Unsatisfied,1
+CUST0289,74,Male,Prince Edward Island,1408.19,3,11,313,11630.04,15457.32,Poor service,0
+CUST0290,67,Male,Alberta,1882.27,4,9,245,15898.41,16988.53,Neutral,0
+CUST0291,59,Female,Nova Scotia,724.49,3,4,6,11026.83,2798.52,Very satisfied,2
+CUST0292,88,Female,Alberta,1385.4,4,12,337,13812.49,16548.98,Neutral,0
+CUST0293,55,Male,Nova Scotia,826.93,4,9,359,9670.56,7399.84,Very satisfied,0
+CUST0294,86,Male,Ontario,1936.0,1,12,248,11827.02,23276.49,Unsatisfied,0
+CUST0295,22,Female,Ontario,1869.47,2,8,20,19278.77,15020.47,Neutral,2
+CUST0296,55,Male,New Brunswick,1048.55,3,9,312,16205.92,9506.21,Very satisfied,0
+CUST0297,20,Male,Manitoba,1997.32,0,4,305,18530.52,7965.16,Unsatisfied,1
+CUST0298,49,Female,Saskatchewan,1484.43,5,10,254,8196.94,14934.11,Excellent service,0
+CUST0299,82,Male,British Columbia,815.99,1,7,313,4551.91,5700.71,Poor service,3
+CUST0300,60,Female,British Columbia,354.74,2,2,101,19247.98,657.02,Poor service,2
+CUST0301,38,Male,Alberta,480.82,0,5,195,17581.12,2336.6,Unsatisfied,1
+CUST0302,67,Female,Manitoba,518.29,3,9,64,17299.16,4655.41,Very satisfied,2
+CUST0303,62,Male,Manitoba,1810.38,5,5,79,18884.4,9079.36,Unsatisfied,2
+CUST0304,47,Female,Ontario,897.11,5,11,95,5017.74,9932.2,Satisfied,3
+CUST0305,87,Female,Alberta,449.64,4,7,80,19629.81,3224.96,Unsatisfied,2
+CUST0306,83,Male,New Brunswick,912.52,4,9,73,18943.26,8297.76,Satisfied,2
+CUST0307,29,Female,Prince Edward Island,1116.74,3,8,29,19580.09,8982.04,Excellent service,2
+CUST0308,87,Female,Quebec,528.62,5,3,278,7617.67,1581.11,Satisfied,1
+CUST0309,88,Female,Saskatchewan,479.11,0,5,9,9574.98,2382.71,Very satisfied,2
+CUST0310,36,Female,New Brunswick,637.09,2,6,32,9017.39,3849.58,Excellent service,2
+CUST0311,39,Female,Prince Edward Island,836.26,5,2,323,1405.5,1653.53,Unsatisfied,3
+CUST0312,62,Female,Nova Scotia,752.44,3,2,241,16941.64,1407.68,Poor service,1
+CUST0313,84,Female,Saskatchewan,1557.2,5,4,362,2764.48,6155.84,Excellent service,3
+CUST0314,82,Female,Alberta,1084.46,1,5,19,19838.59,5442.23,Excellent service,2
+CUST0315,78,Male,Alberta,1196.56,2,2,160,9157.59,2371.49,Neutral,1
+CUST0316,37,Female,Newfoundland and Labrador,440.26,2,6,57,15562.69,2722.5,Very satisfied,2
+CUST0317,36,Male,Prince Edward Island,1086.31,4,6,348,16203.81,6489.65,Neutral,0
+CUST0318,49,Female,Manitoba,863.3,4,9,187,3110.45,7800.25,Unsatisfied,3
+CUST0319,56,Male,New Brunswick,1250.44,2,1,359,14499.65,1268.07,Unsatisfied,1
+CUST0320,44,Female,British Columbia,1571.44,3,8,146,16975.06,12575.17,Excellent service,2
+CUST0321,49,Female,Ontario,431.18,0,1,302,19550.33,422.35,Neutral,1
+CUST0322,50,Female,British Columbia,664.28,3,5,51,19190.0,3375.74,Excellent service,2
+CUST0323,32,Female,New Brunswick,1996.11,3,7,170,14744.05,14035.51,Excellent service,2
+CUST0324,57,Male,Ontario,630.73,2,12,299,18822.74,7544.53,Excellent service,0
+CUST0325,81,Male,Newfoundland and Labrador,1360.46,1,12,318,15853.39,16333.26,Poor service,0
+CUST0326,62,Female,New Brunswick,1805.65,2,4,288,13448.18,7266.43,Neutral,1
+CUST0327,62,Female,Saskatchewan,1539.3,5,1,59,14863.07,1556.43,Very satisfied,2
+CUST0328,75,Male,New Brunswick,641.88,2,8,88,13590.44,5062.1,Satisfied,2
+CUST0329,82,Male,Ontario,1051.43,3,9,325,17427.44,9377.98,Very satisfied,0
+CUST0330,23,Female,Prince Edward Island,570.63,0,3,298,9114.95,1632.55,Neutral,1
+CUST0331,45,Female,Prince Edward Island,399.12,3,1,308,18351.07,404.88,Very satisfied,1
+CUST0332,76,Male,Manitoba,1153.87,4,11,8,19479.5,12671.41,Very satisfied,2
+CUST0333,77,Male,Manitoba,1964.51,1,9,319,16605.41,17725.61,Neutral,0
+CUST0334,75,Male,Saskatchewan,513.54,5,9,70,16726.11,4700.08,Very satisfied,2
+CUST0335,70,Female,New Brunswick,1444.93,1,7,278,11950.0,10134.01,Very satisfied,0
+CUST0336,27,Female,Newfoundland and Labrador,551.15,4,9,30,17327.18,4950.29,Excellent service,2
+CUST0337,54,Female,Quebec,1239.62,2,3,235,8401.33,3674.36,Satisfied,1
+CUST0338,74,Male,Manitoba,492.61,0,8,266,16189.78,4017.3,Satisfied,0
+CUST0339,53,Female,New Brunswick,562.27,0,12,83,18270.45,6770.76,Satisfied,2
+CUST0340,84,Male,Newfoundland and Labrador,1663.72,2,9,171,2611.89,14902.54,Neutral,3
+CUST0341,19,Male,Alberta,676.76,1,8,217,4983.64,5452.7,Satisfied,3
+CUST0342,34,Female,Nova Scotia,772.88,3,11,15,19107.89,8465.89,Neutral,2
+CUST0343,49,Female,Manitoba,1887.45,4,9,144,13351.64,17045.36,Poor service,2
+CUST0344,53,Male,Nova Scotia,1557.37,2,4,260,5867.86,6226.46,Neutral,3
+CUST0345,41,Female,Manitoba,994.72,2,5,255,2462.67,5022.52,Poor service,3
+CUST0346,82,Male,Saskatchewan,674.29,3,10,269,6351.97,6652.17,Excellent service,3
+CUST0347,63,Male,Newfoundland and Labrador,403.02,2,10,277,1939.86,3958.42,Unsatisfied,3
+CUST0348,41,Male,Quebec,917.45,5,4,290,10698.46,3624.36,Very satisfied,1
+CUST0349,52,Male,British Columbia,543.14,0,6,124,10984.51,3230.09,Unsatisfied,2
+CUST0350,22,Female,Alberta,452.84,0,7,309,15138.01,3125.48,Excellent service,0
+CUST0351,67,Male,Manitoba,564.15,4,10,248,9578.73,5674.8,Satisfied,0
+CUST0352,51,Male,Ontario,1785.25,0,1,262,17528.8,1783.68,Poor service,1
+CUST0353,70,Male,New Brunswick,378.51,1,4,48,5174.58,1456.17,Very satisfied,2
+CUST0354,32,Female,Manitoba,469.47,0,10,221,12718.4,4617.68,Unsatisfied,0
+CUST0355,59,Female,Manitoba,1333.7,5,9,324,15613.37,12076.36,Very satisfied,0
+CUST0356,76,Male,New Brunswick,1644.13,1,8,44,5249.69,13248.27,Poor service,2
+CUST0357,37,Female,New Brunswick,1997.95,3,7,297,18561.48,14043.93,Satisfied,0
+CUST0358,44,Female,Quebec,382.15,3,3,220,12818.23,1205.82,Unsatisfied,1
+CUST0359,55,Male,Prince Edward Island,942.09,5,6,25,16153.0,5557.58,Satisfied,2
+CUST0360,23,Male,Manitoba,1942.21,0,10,350,7838.1,19385.98,Satisfied,0
+CUST0361,61,Female,Nova Scotia,761.39,0,2,277,10244.42,1560.32,Very satisfied,1
+CUST0362,82,Female,Alberta,1964.98,0,5,106,2241.71,9776.62,Poor service,3
+CUST0363,83,Female,British Columbia,1393.14,1,5,325,9736.65,6982.37,Satisfied,1
+CUST0364,79,Male,Ontario,596.72,3,8,9,15741.72,4694.26,Satisfied,2
+CUST0365,80,Male,Manitoba,1953.42,3,6,80,5903.05,11637.25,Poor service,3
+CUST0366,56,Male,New Brunswick,811.43,3,1,313,8398.94,733.64,Satisfied,1
+CUST0367,86,Male,New Brunswick,1417.3,4,11,332,9203.97,15508.16,Poor service,0
+CUST0368,55,Male,Newfoundland and Labrador,1550.5,4,10,136,2557.09,15446.54,Excellent service,3
+CUST0369,81,Male,British Columbia,1506.49,5,5,209,13848.3,7517.04,Unsatisfied,1
+CUST0370,27,Male,Alberta,1234.03,4,6,262,19033.83,7315.46,Very satisfied,0
+CUST0371,54,Female,New Brunswick,1404.68,1,7,285,10133.42,9845.02,Satisfied,0
+CUST0372,89,Male,New Brunswick,1601.96,0,10,229,10299.01,15947.98,Very satisfied,0
+CUST0373,18,Female,Newfoundland and Labrador,734.59,2,5,13,17752.79,3640.18,Neutral,2
+CUST0374,57,Male,New Brunswick,1383.83,0,4,210,1770.91,5508.04,Satisfied,3
+CUST0375,37,Male,Alberta,1540.43,2,12,277,16817.62,18404.66,Satisfied,0
+CUST0376,38,Female,Nova Scotia,340.37,2,8,267,14369.94,2651.28,Neutral,0
+CUST0377,20,Male,New Brunswick,1992.71,1,2,172,19573.31,3948.12,Poor service,1
+CUST0378,88,Female,British Columbia,1006.55,5,2,152,19960.43,2047.71,Satisfied,1
+CUST0379,77,Female,New Brunswick,1645.11,2,1,238,3515.16,1599.93,Very satisfied,1
+CUST0380,50,Male,New Brunswick,1015.2,4,4,27,7482.89,4053.82,Satisfied,2
+CUST0381,89,Female,Saskatchewan,1797.68,0,1,57,19656.79,1701.73,Excellent service,2
+CUST0382,35,Female,Quebec,1739.21,3,1,314,784.48,1694.67,Satisfied,3
+CUST0383,79,Male,Saskatchewan,1181.5,3,9,347,16181.81,10536.5,Unsatisfied,0
+CUST0384,86,Male,Ontario,1493.08,4,5,247,2999.41,7389.65,Very satisfied,3
+CUST0385,82,Male,Manitoba,1105.29,2,3,106,19182.72,3339.92,Poor service,2
+CUST0386,29,Female,New Brunswick,1679.36,5,4,205,9320.72,6620.25,Neutral,1
+CUST0387,66,Female,Quebec,1046.89,2,7,32,8690.33,7253.11,Excellent service,2
+CUST0388,87,Female,Quebec,563.45,3,8,162,7298.1,4471.16,Unsatisfied,3
+CUST0389,18,Male,Quebec,991.8,0,5,169,8907.12,4861.91,Very satisfied,1
+CUST0390,19,Male,British Columbia,1127.13,1,10,34,18233.35,11307.59,Unsatisfied,2
+CUST0391,44,Female,Ontario,1299.02,2,5,206,14845.22,6450.98,Satisfied,1
+CUST0392,56,Female,Quebec,1463.37,1,7,180,16760.39,10278.89,Very satisfied,0
+CUST0393,25,Male,Nova Scotia,1842.41,0,10,140,2800.19,18428.24,Very satisfied,3
+CUST0394,85,Male,Prince Edward Island,1814.8,2,2,147,9421.15,3562.26,Satisfied,1
+CUST0395,88,Male,Alberta,1886.54,4,10,195,14310.82,18851.98,Very satisfied,0
+CUST0396,80,Male,Prince Edward Island,611.38,0,12,136,3689.21,7268.83,Very satisfied,3
+CUST0397,48,Female,Quebec,1513.4,1,6,361,18734.39,9117.22,Neutral,0
+CUST0398,43,Male,Prince Edward Island,1158.76,1,12,217,13094.7,13815.06,Poor service,0
+CUST0399,56,Male,Manitoba,1441.69,2,10,49,18542.72,14508.51,Very satisfied,2
+CUST0400,88,Male,Ontario,1237.23,0,4,76,8176.61,4866.43,Unsatisfied,2
+CUST0401,83,Female,Saskatchewan,1207.41,4,8,218,15987.98,9670.9,Unsatisfied,0
+CUST0402,43,Female,Nova Scotia,1110.1,3,6,192,9968.44,6584.85,Satisfied,1
+CUST0403,85,Male,British Columbia,325.44,0,12,39,9793.79,3809.9,Poor service,2
+CUST0404,67,Female,Alberta,1530.94,2,12,332,13582.72,18437.6,Very satisfied,0
+CUST0405,40,Male,New Brunswick,1252.37,4,4,171,874.09,5040.31,Very satisfied,3
+CUST0406,33,Male,Prince Edward Island,1908.02,4,8,21,19401.48,15202.93,Satisfied,2
+CUST0407,28,Male,Newfoundland and Labrador,810.58,3,9,166,11536.49,7198.35,Unsatisfied,0
+CUST0408,52,Male,Prince Edward Island,404.92,0,12,169,9635.6,4765.83,Unsatisfied,0
+CUST0409,85,Female,Alberta,1913.39,3,11,176,10905.18,21023.57,Satisfied,0
+CUST0410,83,Female,British Columbia,1268.17,1,8,346,14996.18,10245.12,Poor service,0
+CUST0411,40,Male,Newfoundland and Labrador,1462.71,5,5,38,12288.4,7403.26,Neutral,2
+CUST0412,29,Male,Nova Scotia,1743.78,4,4,232,18148.93,6934.49,Very satisfied,1
+CUST0413,30,Female,Saskatchewan,1508.62,3,4,195,3213.39,6124.16,Satisfied,3
+CUST0414,39,Female,Nova Scotia,735.05,3,1,120,10969.12,725.37,Very satisfied,1
+CUST0415,24,Female,British Columbia,516.45,4,2,16,9241.48,1079.13,Poor service,2
+CUST0416,38,Female,British Columbia,992.34,3,3,162,6413.22,3051.06,Very satisfied,1
+CUST0417,19,Female,Alberta,989.83,3,1,54,16621.08,940.07,Neutral,2
+CUST0418,38,Male,Newfoundland and Labrador,1110.22,3,6,322,19688.18,6735.12,Unsatisfied,0
+CUST0419,58,Male,Newfoundland and Labrador,316.22,2,5,15,19290.19,1587.37,Neutral,2
+CUST0420,58,Female,Newfoundland and Labrador,401.64,1,8,309,17539.58,3219.39,Very satisfied,0
+CUST0421,66,Female,New Brunswick,1189.75,3,1,343,8748.6,1180.95,Satisfied,1
+CUST0422,28,Male,Prince Edward Island,1974.97,5,2,33,17281.63,3997.55,Very satisfied,2
+CUST0423,80,Female,Saskatchewan,1478.04,0,10,328,18726.36,14810.58,Neutral,0
+CUST0424,75,Female,Alberta,1166.07,1,10,93,7568.41,11599.49,Very satisfied,2
+CUST0425,46,Female,Quebec,1153.52,3,9,137,8032.4,10336.97,Unsatisfied,3
+CUST0426,64,Male,Newfoundland and Labrador,1951.51,0,8,22,12611.83,15652.77,Neutral,2
+CUST0427,36,Male,New Brunswick,1686.58,2,4,112,17887.89,6807.94,Satisfied,2
+CUST0428,25,Male,Ontario,535.38,4,12,99,1696.55,6342.44,Excellent service,3
+CUST0429,32,Female,New Brunswick,653.86,2,8,88,9898.86,5309.79,Unsatisfied,2
+CUST0430,24,Female,Alberta,1358.69,0,2,340,15781.73,2630.05,Excellent service,1
+CUST0431,58,Female,Quebec,1316.13,3,12,305,19240.57,15872.27,Neutral,0
+CUST0432,30,Female,Alberta,1949.31,2,10,268,12173.61,19575.6,Unsatisfied,0
+CUST0433,50,Male,British Columbia,1780.41,5,8,303,10802.73,14304.34,Poor service,0
+CUST0434,88,Female,Prince Edward Island,670.28,2,12,44,14941.56,7968.13,Poor service,2
+CUST0435,80,Male,New Brunswick,566.18,4,10,363,7402.57,5690.68,Unsatisfied,0
+CUST0436,37,Female,New Brunswick,444.7,0,1,15,4540.92,423.84,Very satisfied,2
+CUST0437,64,Male,Prince Edward Island,1289.71,0,10,298,738.85,12908.22,Unsatisfied,3
+CUST0438,52,Female,Newfoundland and Labrador,731.73,4,1,26,13568.57,802.92,Poor service,2
+CUST0439,21,Male,Alberta,371.15,0,6,230,6053.01,2282.48,Poor service,3
+CUST0440,75,Female,Prince Edward Island,526.85,5,8,67,10602.17,4283.73,Excellent service,2
+CUST0441,53,Female,New Brunswick,916.7,5,8,313,1416.23,7366.1,Excellent service,3
+CUST0442,58,Male,Prince Edward Island,1563.13,3,4,241,16121.8,6340.53,Excellent service,1
+CUST0443,46,Female,Newfoundland and Labrador,509.25,4,4,320,8527.41,2041.65,Neutral,1
+CUST0444,63,Female,Alberta,1538.57,3,4,211,6242.25,6083.96,Excellent service,3
+CUST0445,43,Male,Alberta,1873.55,1,6,234,4989.72,11170.28,Very satisfied,3
+CUST0446,54,Female,Newfoundland and Labrador,1927.72,2,10,222,13600.84,19237.19,Poor service,0
+CUST0447,55,Female,New Brunswick,806.42,4,10,87,11727.38,8136.53,Very satisfied,2
+CUST0448,20,Female,Saskatchewan,1301.72,2,10,97,15308.51,13044.98,Satisfied,2
+CUST0449,36,Male,Prince Edward Island,669.48,1,11,353,572.57,7313.63,Satisfied,3
+CUST0450,71,Female,Newfoundland and Labrador,1443.3,0,2,80,9084.23,2947.0,Very satisfied,2
+CUST0451,44,Male,Ontario,370.52,3,10,313,12975.02,3728.21,Very satisfied,0
+CUST0452,39,Male,Ontario,573.53,0,3,177,6739.42,1668.05,Very satisfied,1
+CUST0453,64,Male,New Brunswick,1146.02,4,10,304,7563.6,11480.17,Very satisfied,0
+CUST0454,44,Female,British Columbia,1034.87,5,6,116,12816.97,6308.1,Unsatisfied,2
+CUST0455,82,Female,Alberta,1812.51,5,4,207,15720.14,7161.36,Satisfied,1
+CUST0456,22,Female,Prince Edward Island,680.26,1,5,302,4184.36,3387.5,Poor service,3
+CUST0457,56,Male,Prince Edward Island,1645.91,0,10,306,14114.34,16437.09,Neutral,0
+CUST0458,19,Female,Nova Scotia,1863.26,1,6,132,9249.37,11146.29,Very satisfied,2
+CUST0459,84,Male,New Brunswick,1513.12,3,8,89,18007.15,12199.81,Neutral,2
+CUST0460,81,Male,Prince Edward Island,1864.2,4,11,139,5360.44,20592.26,Satisfied,3
+CUST0461,68,Female,Manitoba,470.69,1,5,41,7318.38,2264.19,Poor service,2
+CUST0462,39,Female,Nova Scotia,1113.13,5,9,154,2231.7,10041.39,Poor service,3
+CUST0463,23,Male,Prince Edward Island,1760.8,4,2,237,12844.65,3571.95,Excellent service,1
+CUST0464,60,Female,New Brunswick,862.86,1,12,51,6102.91,10391.82,Satisfied,3
+CUST0465,53,Female,British Columbia,757.23,1,4,87,17849.43,3081.33,Neutral,2
+CUST0466,46,Female,Newfoundland and Labrador,1018.55,4,9,219,10819.74,9219.67,Excellent service,0
+CUST0467,45,Male,British Columbia,1159.39,1,3,254,6885.92,3546.01,Neutral,1
+CUST0468,50,Female,Nova Scotia,1903.76,3,3,96,17993.42,5800.26,Poor service,2
+CUST0469,69,Male,Quebec,988.45,0,3,129,3681.41,3018.75,Neutral,3
+CUST0470,23,Female,New Brunswick,430.08,5,9,111,19674.91,3899.31,Poor service,2
+CUST0471,57,Male,Ontario,1494.44,0,7,298,5556.31,10472.33,Satisfied,3
+CUST0472,26,Male,Ontario,1215.18,2,1,97,11973.61,1276.35,Unsatisfied,1
+CUST0473,54,Female,Newfoundland and Labrador,1354.16,4,4,201,16849.62,5480.41,Satisfied,1
+CUST0474,36,Male,Saskatchewan,593.42,2,8,334,7170.29,4807.66,Unsatisfied,3
+CUST0475,63,Male,Alberta,1644.97,0,2,66,10332.35,3205.25,Poor service,2
+CUST0476,24,Male,British Columbia,839.93,4,12,82,1749.95,10110.28,Excellent service,3
+CUST0477,82,Female,British Columbia,955.93,0,5,27,11092.93,4845.08,Poor service,2
+CUST0478,48,Female,Quebec,1565.02,5,9,202,13541.77,14067.18,Satisfied,0
+CUST0479,66,Female,New Brunswick,671.98,4,3,299,4146.71,1984.8,Poor service,3
+CUST0480,71,Female,New Brunswick,811.44,3,10,296,2345.03,8188.59,Satisfied,3
+CUST0481,47,Female,Quebec,479.74,3,6,76,1421.71,2842.02,Very satisfied,3
+CUST0482,46,Male,Ontario,819.51,3,12,144,2070.08,9885.41,Excellent service,3
+CUST0483,54,Female,Alberta,327.58,0,8,250,3202.14,2665.79,Unsatisfied,3
+CUST0484,28,Female,British Columbia,1650.85,3,10,340,12982.15,16564.56,Very satisfied,0
+CUST0485,63,Female,Prince Edward Island,1928.62,0,2,109,15724.46,3913.05,Neutral,1
+CUST0486,42,Female,Manitoba,1061.1,3,5,74,12939.74,5288.41,Very satisfied,2
+CUST0487,66,Female,Alberta,937.49,4,7,300,4815.59,6646.08,Neutral,3
+CUST0488,51,Female,Ontario,427.83,1,8,268,4975.62,3404.74,Unsatisfied,3
+CUST0489,29,Male,Prince Edward Island,358.07,4,8,163,2981.75,2867.18,Satisfied,3
+CUST0490,32,Female,Nova Scotia,362.33,2,1,300,10517.69,318.63,Satisfied,1
+CUST0491,81,Male,Manitoba,1894.87,1,12,45,17334.62,22795.09,Very satisfied,2
+CUST0492,37,Male,Nova Scotia,1191.88,2,5,279,12818.35,5872.81,Excellent service,1
+CUST0493,28,Male,Manitoba,899.68,5,7,350,15882.2,6305.61,Neutral,0
+CUST0494,42,Male,New Brunswick,651.72,2,6,360,19019.5,3890.95,Neutral,0
+CUST0495,42,Female,British Columbia,662.12,2,8,125,18327.97,5232.23,Unsatisfied,2
+CUST0496,23,Female,Prince Edward Island,1362.14,2,1,190,8484.3,1324.02,Poor service,1
+CUST0497,34,Female,Prince Edward Island,610.36,2,8,202,19495.76,4795.57,Neutral,0
+CUST0498,21,Male,Ontario,393.05,5,9,46,8826.14,3536.76,Neutral,2
+CUST0499,69,Female,Manitoba,797.6,3,1,59,12662.61,896.28,Very satisfied,2
+CUST0500,31,Male,Ontario,1640.47,0,10,294,11909.76,16400.44,Satisfied,0
+CUST0501,71,Female,Quebec,747.62,0,8,8,2402.63,5934.46,Unsatisfied,3
+CUST0502,30,Female,New Brunswick,818.09,3,8,113,18598.65,6446.86,Neutral,2
+CUST0503,40,Female,Manitoba,1428.99,1,3,17,16402.36,4189.28,Poor service,2
+CUST0504,76,Female,British Columbia,1244.41,2,7,82,7903.24,8759.45,Excellent service,2
+CUST0505,84,Female,Alberta,1107.15,5,7,273,6015.54,7783.61,Poor service,3
+CUST0506,22,Female,Newfoundland and Labrador,475.56,2,7,149,4909.03,3307.59,Poor service,3
+CUST0507,29,Female,Prince Edward Island,1201.69,0,9,120,14362.58,10725.58,Neutral,2
+CUST0508,39,Male,Nova Scotia,1066.0,3,3,159,13103.15,3149.89,Poor service,1
+CUST0509,63,Female,New Brunswick,1620.88,1,4,242,18459.03,6496.0,Excellent service,1
+CUST0510,70,Female,Newfoundland and Labrador,941.96,3,7,327,13319.0,6517.66,Excellent service,0
+CUST0511,81,Female,New Brunswick,891.0,0,4,287,2389.94,3549.2,Poor service,3
+CUST0512,72,Female,Newfoundland and Labrador,1261.1,5,9,99,1806.29,11448.94,Neutral,3
+CUST0513,59,Male,Saskatchewan,548.48,1,8,66,17046.65,4360.13,Unsatisfied,2
+CUST0514,50,Male,British Columbia,837.48,2,1,94,7404.56,923.29,Satisfied,1
+CUST0515,45,Female,Nova Scotia,1858.1,2,5,146,15049.24,9350.08,Neutral,2
+CUST0516,25,Female,British Columbia,1271.15,5,7,33,16892.04,8854.73,Excellent service,2
+CUST0517,38,Female,New Brunswick,1519.5,1,4,224,3880.51,6015.62,Poor service,3
+CUST0518,88,Female,Alberta,1037.18,5,6,8,1788.15,6175.72,Excellent service,3
+CUST0519,44,Female,Quebec,938.32,0,4,254,5572.44,3783.47,Neutral,3
+CUST0520,32,Female,Alberta,382.68,0,12,134,17358.75,4525.45,Poor service,0
+CUST0521,49,Female,Newfoundland and Labrador,1067.41,5,6,108,3241.29,6407.61,Neutral,3
+CUST0522,76,Female,Nova Scotia,1161.94,4,12,106,2556.7,14027.23,Poor service,3
+CUST0523,73,Female,Ontario,883.76,3,3,196,16588.64,2656.92,Satisfied,1
+CUST0524,76,Male,Ontario,594.19,1,8,44,19325.02,4772.04,Neutral,2
+CUST0525,50,Female,Prince Edward Island,1653.65,5,7,25,12255.35,11536.41,Very satisfied,2
+CUST0526,35,Male,British Columbia,908.34,1,1,146,11261.68,969.32,Satisfied,1
+CUST0527,18,Male,New Brunswick,1142.21,4,1,95,9290.17,1159.45,Satisfied,1
+CUST0528,72,Female,Alberta,1529.92,2,1,349,11144.44,1568.56,Unsatisfied,1
+CUST0529,45,Male,Saskatchewan,570.45,4,7,2,12658.44,4032.59,Excellent service,2
+CUST0530,42,Male,British Columbia,773.08,0,8,189,12226.9,6178.91,Very satisfied,0
+CUST0531,78,Male,Alberta,1411.67,5,2,168,1666.84,2787.91,Very satisfied,3
+CUST0532,54,Female,Nova Scotia,1518.6,3,1,239,12477.62,1437.61,Poor service,1
+CUST0533,59,Male,New Brunswick,1665.76,3,6,282,882.5,9916.86,Very satisfied,3
+CUST0534,66,Male,Ontario,1626.98,1,11,140,7362.75,17825.49,Unsatisfied,3
+CUST0535,51,Female,Manitoba,1878.13,0,8,201,3862.04,14963.14,Very satisfied,3
+CUST0536,43,Male,Prince Edward Island,719.44,3,10,363,4969.19,7163.32,Satisfied,3
+CUST0537,35,Male,Ontario,568.84,0,3,201,8782.35,1725.66,Satisfied,1
+CUST0538,64,Female,Ontario,467.99,2,7,318,7101.53,3186.83,Unsatisfied,3
+CUST0539,82,Female,Alberta,1878.7,2,11,4,14702.92,20627.03,Very satisfied,2
+CUST0540,57,Female,Saskatchewan,313.67,0,9,214,3322.87,2903.43,Unsatisfied,3
+CUST0541,24,Male,Ontario,1031.48,1,5,47,15902.63,5084.39,Satisfied,2
+CUST0542,33,Male,New Brunswick,1552.93,1,8,337,5597.19,12470.54,Very satisfied,3
+CUST0543,53,Male,Quebec,660.63,1,5,76,3138.54,3350.37,Excellent service,3
+CUST0544,56,Male,Ontario,1009.49,2,8,142,6527.4,7993.84,Satisfied,3
+CUST0545,85,Male,New Brunswick,819.3,1,7,252,2169.13,5678.68,Very satisfied,3
+CUST0546,85,Female,Manitoba,1036.56,1,9,45,11431.38,9379.23,Satisfied,2
+CUST0547,57,Female,Saskatchewan,926.11,2,8,331,10979.47,7370.35,Very satisfied,0
+CUST0548,59,Male,New Brunswick,1580.43,1,1,297,4303.74,1624.66,Neutral,1
+CUST0549,52,Female,Nova Scotia,1061.33,4,9,246,12588.27,9578.79,Neutral,0
+CUST0550,66,Female,Prince Edward Island,1728.37,0,8,172,13152.24,13831.96,Excellent service,0
+CUST0551,34,Female,Newfoundland and Labrador,1495.72,2,5,299,1295.71,7578.32,Satisfied,3
+CUST0552,39,Female,Prince Edward Island,625.65,2,2,268,1530.04,1155.02,Poor service,3
+CUST0553,19,Female,British Columbia,1663.72,0,11,206,10376.88,18296.29,Very satisfied,0
+CUST0554,21,Female,Ontario,1063.8,5,4,205,4782.69,4174.07,Very satisfied,3
+CUST0555,72,Male,Manitoba,1501.42,0,7,357,10244.32,10600.27,Excellent service,0
+CUST0556,76,Female,Newfoundland and Labrador,993.6,5,8,251,5318.43,7983.37,Unsatisfied,3
+CUST0557,36,Male,Ontario,1610.6,3,5,326,17596.46,8152.75,Satisfied,1
+CUST0558,53,Female,Nova Scotia,1772.62,5,10,286,1489.43,17741.86,Neutral,3
+CUST0559,18,Female,Quebec,1321.97,0,7,321,9938.99,9209.71,Unsatisfied,0
+CUST0560,71,Male,Quebec,1256.38,0,9,299,16612.44,11255.65,Unsatisfied,0
+CUST0561,36,Male,Nova Scotia,1574.04,3,5,313,16226.14,7770.33,Unsatisfied,1
+CUST0562,23,Female,Nova Scotia,416.52,1,11,309,5658.91,4673.08,Neutral,3
+CUST0563,35,Male,Alberta,841.64,0,10,334,930.06,8331.99,Unsatisfied,3
+CUST0564,89,Female,Alberta,574.02,4,8,233,7524.01,4639.87,Satisfied,3
+CUST0565,82,Male,Quebec,1704.8,2,5,222,9904.92,8537.34,Excellent service,1
+CUST0566,55,Female,Saskatchewan,1737.15,2,2,266,6648.6,3536.84,Very satisfied,1
+CUST0567,49,Male,Newfoundland and Labrador,1517.7,1,9,85,10225.24,13575.35,Neutral,2
+CUST0568,78,Female,Ontario,629.79,5,9,153,19813.16,5752.54,Excellent service,0
+CUST0569,35,Male,Saskatchewan,1996.35,2,11,117,8570.71,21901.76,Satisfied,2
+CUST0570,66,Female,Manitoba,1718.98,5,5,198,1180.37,8599.27,Excellent service,3
+CUST0571,37,Male,Manitoba,1526.24,3,6,40,6774.44,9155.78,Unsatisfied,2
+CUST0572,59,Male,British Columbia,1056.39,0,2,276,15586.49,2040.64,Excellent service,1
+CUST0573,71,Male,Quebec,1429.14,2,2,71,10395.63,2822.88,Poor service,2
+CUST0574,73,Female,Manitoba,1077.8,5,12,210,12793.87,12913.91,Neutral,0
+CUST0575,82,Female,Nova Scotia,1996.59,3,8,349,17937.63,15963.32,Poor service,0
+CUST0576,29,Female,New Brunswick,1206.57,5,10,249,17828.67,12020.88,Unsatisfied,0
+CUST0577,86,Male,Saskatchewan,1112.47,5,7,166,18787.62,7803.69,Neutral,2
+CUST0578,65,Male,Alberta,1384.41,5,7,298,17160.77,9661.05,Excellent service,0
+CUST0579,57,Female,Manitoba,831.45,0,3,125,1359.07,2548.77,Poor service,3
+CUST0580,52,Female,Newfoundland and Labrador,1582.05,2,7,53,9811.77,11160.99,Unsatisfied,2
+CUST0581,71,Male,Manitoba,759.0,3,7,81,8462.57,5317.93,Satisfied,2
+CUST0582,80,Female,Alberta,1291.52,2,5,339,17445.23,6366.86,Unsatisfied,1
+CUST0583,82,Male,Alberta,1965.16,5,12,243,12426.59,23575.96,Very satisfied,0
+CUST0584,56,Male,Quebec,1745.26,1,9,249,9906.06,15768.74,Unsatisfied,0
+CUST0585,88,Male,British Columbia,649.03,3,10,27,12172.72,6440.65,Poor service,2
+CUST0586,25,Male,New Brunswick,1186.73,1,9,286,4932.67,10691.27,Satisfied,3
+CUST0587,32,Female,Saskatchewan,1069.96,1,11,127,17845.51,11700.74,Neutral,0
+CUST0588,73,Female,Saskatchewan,1258.31,1,11,139,1245.48,13835.36,Unsatisfied,3
+CUST0589,78,Male,Saskatchewan,472.5,2,12,58,11688.92,5679.06,Poor service,2
+CUST0590,25,Male,Prince Edward Island,1271.14,4,9,335,5761.65,11393.88,Poor service,3
+CUST0591,84,Female,Newfoundland and Labrador,1979.14,4,4,5,14063.03,7899.39,Unsatisfied,2
+CUST0592,25,Female,British Columbia,325.15,1,8,264,4402.54,2692.02,Excellent service,3
+CUST0593,56,Male,Prince Edward Island,654.38,3,7,188,10362.33,4545.53,Satisfied,3
+CUST0594,34,Female,New Brunswick,833.59,2,9,180,18929.43,7466.56,Very satisfied,0
+CUST0595,22,Female,Prince Edward Island,590.1,2,8,60,16129.33,4725.59,Unsatisfied,2
+CUST0596,85,Male,Newfoundland and Labrador,1557.31,1,12,296,19846.3,18718.66,Poor service,0
+CUST0597,77,Female,Newfoundland and Labrador,1137.38,4,7,343,8860.18,7918.65,Neutral,0
+CUST0598,84,Male,Saskatchewan,471.87,1,4,335,18076.06,1809.43,Neutral,1
+CUST0599,71,Female,Alberta,1767.46,5,5,341,5124.53,8900.64,Poor service,3
+CUST0600,44,Male,Quebec,1588.21,4,1,85,5103.25,1626.17,Unsatisfied,1
+CUST0601,75,Male,Prince Edward Island,1057.4,0,12,44,18001.75,12764.91,Satisfied,2
+CUST0602,67,Male,British Columbia,803.21,0,11,40,9050.11,8790.87,Neutral,2
+CUST0603,36,Male,Newfoundland and Labrador,1267.62,4,3,67,6258.44,3852.82,Satisfied,2
+CUST0604,61,Female,Quebec,842.94,1,8,9,9443.4,6759.46,Very satisfied,2
+CUST0605,49,Female,Ontario,1837.34,4,8,177,7768.99,14729.84,Excellent service,3
+CUST0606,65,Female,Prince Edward Island,1735.35,2,11,218,3319.13,19002.2,Poor service,3
+CUST0607,55,Male,Prince Edward Island,1407.47,2,1,363,11264.5,1375.35,Poor service,1
+CUST0608,44,Male,British Columbia,1888.11,0,6,314,4624.69,11291.81,Satisfied,3
+CUST0609,78,Female,New Brunswick,1448.11,0,6,129,3086.35,8589.78,Poor service,3
+CUST0610,39,Male,Ontario,1212.0,1,2,211,10802.28,2448.52,Very satisfied,1
+CUST0611,80,Female,Manitoba,1517.93,0,1,278,12856.08,1591.28,Unsatisfied,1
+CUST0612,29,Female,New Brunswick,1307.15,3,1,253,5430.14,1322.02,Very satisfied,1
+CUST0613,29,Female,Prince Edward Island,1498.52,2,5,131,13708.39,7567.66,Excellent service,2
+CUST0614,58,Male,Prince Edward Island,1615.97,3,11,188,14235.27,17701.18,Neutral,0
+CUST0615,33,Female,British Columbia,1479.53,2,7,46,8144.64,10315.53,Very satisfied,2
+CUST0616,45,Female,British Columbia,812.22,0,1,88,552.94,856.29,Excellent service,3
+CUST0617,46,Male,British Columbia,1769.04,0,10,140,13319.6,17590.51,Satisfied,0
+CUST0618,42,Female,New Brunswick,1975.74,2,5,361,6318.11,9940.17,Poor service,1
+CUST0619,78,Male,Ontario,629.3,3,1,248,5877.63,629.14,Satisfied,1
+CUST0620,36,Female,Ontario,1159.51,5,9,341,1621.87,10345.48,Poor service,3
+CUST0621,22,Female,Newfoundland and Labrador,985.77,1,5,285,18708.75,4941.43,Poor service,1
+CUST0622,42,Female,Manitoba,1279.96,3,10,164,6803.8,12759.15,Neutral,3
+CUST0623,28,Female,Manitoba,1113.98,4,4,36,11844.47,4498.23,Unsatisfied,2
+CUST0624,40,Female,Nova Scotia,1631.67,4,5,121,17560.09,8239.05,Very satisfied,2
+CUST0625,84,Female,British Columbia,1225.56,3,1,213,11935.47,1163.41,Neutral,1
+CUST0626,72,Female,Alberta,769.59,3,1,91,1789.06,702.93,Unsatisfied,3
+CUST0627,40,Male,Saskatchewan,361.26,2,2,278,12353.15,678.65,Neutral,1
+CUST0628,23,Male,British Columbia,769.59,0,5,216,5908.05,3944.63,Satisfied,3
+CUST0629,78,Female,Alberta,1504.15,0,2,146,16672.11,2934.9,Very satisfied,1
+CUST0630,22,Male,Newfoundland and Labrador,618.45,2,6,253,12703.07,3611.94,Satisfied,1
+CUST0631,60,Male,Manitoba,1361.45,1,3,230,14959.37,4076.74,Satisfied,1
+CUST0632,31,Male,Alberta,1500.32,1,9,35,1220.84,13429.48,Neutral,3
+CUST0633,47,Female,British Columbia,1395.8,3,9,115,16655.52,12518.17,Neutral,2
+CUST0634,67,Female,Newfoundland and Labrador,1805.17,0,11,89,11367.82,19871.29,Very satisfied,2
+CUST0635,41,Female,Nova Scotia,1144.98,5,8,340,15645.97,9109.94,Neutral,0
+CUST0636,21,Male,British Columbia,430.19,2,4,131,12220.34,1799.47,Satisfied,2
+CUST0637,71,Female,New Brunswick,792.38,2,11,20,1167.19,8709.87,Very satisfied,3
+CUST0638,69,Female,Prince Edward Island,1842.15,4,8,85,18931.71,14649.68,Very satisfied,2
+CUST0639,38,Male,Alberta,725.61,4,4,103,16522.65,2901.15,Neutral,2
+CUST0640,87,Female,Manitoba,1713.33,4,10,196,18282.46,17156.84,Unsatisfied,0
+CUST0641,53,Female,British Columbia,683.0,0,8,115,3831.62,5535.31,Unsatisfied,3
+CUST0642,56,Female,Manitoba,730.47,3,2,48,8147.21,1549.42,Excellent service,2
+CUST0643,44,Female,Prince Edward Island,731.5,5,9,303,15832.87,6666.86,Excellent service,0
+CUST0644,60,Male,Prince Edward Island,1300.05,3,2,76,1299.17,2677.36,Neutral,3
+CUST0645,77,Female,Ontario,952.03,4,1,59,11283.2,975.24,Neutral,2
+CUST0646,21,Female,Prince Edward Island,403.94,5,5,314,16659.23,2076.54,Poor service,1
+CUST0647,36,Male,New Brunswick,1063.25,4,8,122,1055.3,8432.12,Poor service,3
+CUST0648,43,Female,Manitoba,464.56,3,9,102,6992.83,4190.5,Satisfied,3
+CUST0649,87,Female,Ontario,1727.71,2,11,286,15001.42,18974.52,Poor service,0
+CUST0650,86,Male,Quebec,649.08,1,7,283,18056.17,4636.81,Very satisfied,0
+CUST0651,19,Male,Prince Edward Island,603.03,0,4,187,13757.89,2411.09,Satisfied,1
+CUST0652,51,Female,Prince Edward Island,1038.05,3,11,260,13932.55,11509.82,Poor service,0
+CUST0653,54,Female,Quebec,1968.16,0,10,156,1243.62,19613.59,Very satisfied,3
+CUST0654,38,Male,Alberta,1258.51,2,11,100,16148.92,13795.25,Unsatisfied,2
+CUST0655,42,Male,British Columbia,1625.1,1,4,274,15630.72,6424.86,Unsatisfied,1
+CUST0656,83,Female,Quebec,782.7,1,5,90,17857.33,3858.73,Unsatisfied,2
+CUST0657,80,Male,Saskatchewan,1871.04,2,10,247,17318.56,18663.87,Poor service,0
+CUST0658,49,Female,Saskatchewan,1049.78,0,3,195,10289.21,3171.41,Poor service,1
+CUST0659,34,Male,New Brunswick,1730.96,3,12,347,1991.58,20828.79,Neutral,3
+CUST0660,24,Female,Nova Scotia,756.42,0,5,75,3434.87,3793.15,Very satisfied,3
+CUST0661,36,Male,Quebec,350.33,0,3,230,11170.95,979.16,Neutral,1
+CUST0662,41,Male,Newfoundland and Labrador,1019.76,2,5,4,12265.55,5093.5,Very satisfied,2
+CUST0663,60,Male,Newfoundland and Labrador,1940.35,5,1,33,2954.04,1934.42,Very satisfied,3
+CUST0664,76,Female,Quebec,568.24,5,4,227,10352.07,2222.82,Excellent service,1
+CUST0665,69,Male,Prince Edward Island,1497.12,0,5,174,5500.08,7506.68,Poor service,3
+CUST0666,31,Male,British Columbia,1957.58,3,4,75,9364.26,7920.86,Excellent service,2
+CUST0667,80,Male,New Brunswick,1079.51,4,4,277,740.82,4229.05,Unsatisfied,3
+CUST0668,37,Male,Ontario,642.57,2,5,147,985.45,3117.26,Poor service,3
+CUST0669,75,Female,Prince Edward Island,1004.01,0,8,278,7546.45,8058.03,Excellent service,3
+CUST0670,24,Female,Ontario,1941.9,2,1,75,18690.07,2031.23,Neutral,2
+CUST0671,29,Male,New Brunswick,1452.9,3,7,251,17906.83,10096.67,Satisfied,0
+CUST0672,35,Female,New Brunswick,981.5,4,12,226,17639.23,11738.19,Satisfied,0
+CUST0673,44,Female,Prince Edward Island,1898.71,5,3,155,8115.96,5771.6,Very satisfied,1
+CUST0674,55,Female,New Brunswick,662.18,2,10,277,2691.66,6531.74,Neutral,3
+CUST0675,65,Female,Alberta,1978.74,1,2,187,15333.7,4010.01,Very satisfied,1
+CUST0676,58,Male,Alberta,1881.82,5,5,86,4889.55,9477.65,Excellent service,3
+CUST0677,40,Female,Ontario,1313.72,1,12,52,16810.49,15691.09,Unsatisfied,2
+CUST0678,68,Male,Prince Edward Island,816.93,5,2,198,10303.32,1607.69,Neutral,1
+CUST0679,19,Male,Prince Edward Island,1926.08,0,5,195,17263.54,9655.71,Poor service,1
+CUST0680,49,Male,Ontario,1542.39,3,12,365,18061.11,18415.51,Very satisfied,0
+CUST0681,21,Male,New Brunswick,766.34,3,11,334,9578.68,8457.9,Excellent service,0
+CUST0682,37,Female,Newfoundland and Labrador,1413.58,2,3,332,12778.21,4170.93,Satisfied,1
+CUST0683,23,Female,New Brunswick,562.25,1,5,326,14280.38,2775.82,Excellent service,1
+CUST0684,25,Male,Newfoundland and Labrador,653.39,1,2,118,12255.04,1213.29,Excellent service,1
+CUST0685,39,Female,British Columbia,1495.91,5,5,355,1227.49,7478.31,Unsatisfied,3
+CUST0686,87,Female,Quebec,1661.93,4,5,218,15564.9,8321.37,Excellent service,1
+CUST0687,49,Female,Saskatchewan,1966.57,2,2,247,5942.73,3977.16,Satisfied,1
+CUST0688,73,Male,Ontario,1557.88,5,3,189,17817.37,4769.91,Very satisfied,1
+CUST0689,55,Female,New Brunswick,824.13,1,9,152,18166.98,7467.88,Very satisfied,0
+CUST0690,72,Female,New Brunswick,1676.26,0,4,211,11816.03,6694.57,Neutral,1
+CUST0691,51,Male,Quebec,862.13,2,5,58,5668.93,4228.59,Satisfied,2
+CUST0692,84,Male,Alberta,1210.92,3,1,105,8029.99,1120.82,Satisfied,1
+CUST0693,20,Male,New Brunswick,1274.74,0,4,68,1273.07,5087.34,Poor service,3
+CUST0694,72,Male,Ontario,1605.38,3,12,346,1492.27,19210.82,Very satisfied,3
+CUST0695,47,Female,Manitoba,1754.16,3,5,129,18632.96,8724.65,Neutral,2
+CUST0696,83,Male,Nova Scotia,585.8,4,10,352,3470.81,5908.27,Neutral,3
+CUST0697,40,Female,British Columbia,1577.07,2,1,286,11069.15,1559.67,Very satisfied,1
+CUST0698,22,Male,Saskatchewan,1171.77,4,1,329,9079.79,1243.91,Unsatisfied,1
+CUST0699,77,Male,Saskatchewan,1050.07,2,12,7,1273.42,12524.75,Excellent service,3
+CUST0700,42,Male,Prince Edward Island,559.35,2,2,101,4178.03,1195.49,Poor service,3
+CUST0701,86,Male,British Columbia,1796.83,5,5,114,6710.23,8990.92,Neutral,3
+CUST0702,78,Female,Alberta,1374.38,2,5,110,10714.02,6901.93,Unsatisfied,2
+CUST0703,22,Male,Quebec,1308.66,2,9,232,15491.81,11713.77,Neutral,0
+CUST0704,42,Male,Ontario,1370.82,2,11,210,16998.0,14990.58,Excellent service,0
+CUST0705,76,Female,Manitoba,1420.83,4,11,355,10664.54,15580.37,Neutral,0
+CUST0706,22,Male,Quebec,1662.27,3,8,252,19055.71,13206.44,Neutral,0
+CUST0707,64,Female,Ontario,1917.1,4,12,259,9175.58,23074.15,Unsatisfied,0
+CUST0708,86,Male,Prince Edward Island,1432.66,5,11,128,6282.53,15673.89,Poor service,3
+CUST0709,66,Female,Prince Edward Island,1771.18,4,3,262,5358.98,5282.37,Excellent service,1
+CUST0710,29,Female,Prince Edward Island,578.78,5,3,149,12123.99,1678.0,Very satisfied,1
+CUST0711,50,Female,Nova Scotia,551.79,0,8,118,1585.51,4375.4,Satisfied,3
+CUST0712,88,Female,British Columbia,1559.12,2,4,300,8203.09,6199.6,Unsatisfied,1
+CUST0713,74,Female,Newfoundland and Labrador,1217.22,5,4,74,4387.51,4855.32,Satisfied,3
+CUST0714,81,Female,British Columbia,897.88,3,7,215,6972.52,6344.98,Satisfied,3
+CUST0715,80,Male,Quebec,628.11,4,1,19,9977.23,725.21,Excellent service,2
+CUST0716,62,Female,Quebec,715.64,0,12,173,1472.43,8570.79,Satisfied,3
+CUST0717,72,Male,Quebec,1524.73,4,1,250,12810.57,1535.46,Unsatisfied,1
+CUST0718,89,Female,Alberta,1949.2,4,9,323,13110.62,17461.39,Excellent service,0
+CUST0719,46,Female,Newfoundland and Labrador,832.49,0,5,327,14477.8,4063.33,Neutral,1
+CUST0720,29,Male,Manitoba,1650.7,1,8,239,8858.95,13117.0,Very satisfied,3
+CUST0721,72,Male,Ontario,1960.47,5,7,127,5295.52,13627.72,Excellent service,3
+CUST0722,36,Male,Saskatchewan,1050.89,3,8,161,1979.31,8500.62,Unsatisfied,3
+CUST0723,42,Male,Manitoba,332.49,4,10,318,14526.93,3390.66,Very satisfied,0
+CUST0724,41,Female,Prince Edward Island,722.54,0,7,254,9830.6,5030.18,Neutral,0
+CUST0725,83,Female,Ontario,1442.83,2,3,33,1385.02,4391.98,Unsatisfied,3
+CUST0726,55,Male,British Columbia,1675.51,4,2,32,9983.75,3404.4,Neutral,2
+CUST0727,33,Female,British Columbia,1005.75,3,2,273,9037.95,2086.23,Unsatisfied,1
+CUST0728,58,Male,Prince Edward Island,1553.2,4,3,268,15192.04,4560.29,Unsatisfied,1
+CUST0729,57,Male,British Columbia,733.04,5,2,223,16667.08,1447.13,Very satisfied,1
+CUST0730,40,Male,Quebec,1856.75,0,10,146,15898.05,18479.7,Satisfied,0
+CUST0731,82,Female,Nova Scotia,1800.94,2,7,12,11945.1,12585.36,Neutral,2
+CUST0732,40,Male,British Columbia,1719.34,3,9,332,4600.77,15550.47,Excellent service,3
+CUST0733,79,Female,Ontario,1895.28,2,7,355,19373.22,13365.3,Very satisfied,0
+CUST0734,44,Male,Manitoba,428.55,1,11,84,10494.25,4618.01,Neutral,2
+CUST0735,36,Male,Quebec,1864.74,4,8,319,18655.52,14925.43,Satisfied,0
+CUST0736,87,Female,Saskatchewan,435.9,2,5,72,12386.6,2093.21,Unsatisfied,2
+CUST0737,21,Male,British Columbia,1175.93,5,3,79,5755.37,3496.1,Poor service,2
+CUST0738,36,Female,Ontario,785.64,2,8,235,7012.58,6193.78,Neutral,3
+CUST0739,87,Male,Ontario,1168.76,4,12,306,6026.67,14052.13,Satisfied,0
+CUST0740,48,Female,Ontario,1216.12,2,2,129,18178.74,2364.47,Very satisfied,1
+CUST0741,60,Male,Nova Scotia,616.47,0,1,259,9105.9,652.31,Very satisfied,1
+CUST0742,37,Male,Manitoba,454.15,2,4,32,1969.08,1732.04,Poor service,3
+CUST0743,58,Male,New Brunswick,1192.34,3,6,132,6969.83,7064.64,Very satisfied,3
+CUST0744,35,Male,Alberta,1821.87,3,7,138,17145.88,12825.73,Neutral,2
+CUST0745,49,Female,Manitoba,961.86,5,2,316,17601.21,1995.25,Excellent service,1
+CUST0746,38,Female,Newfoundland and Labrador,349.54,1,7,311,5163.69,2469.63,Unsatisfied,3
+CUST0747,63,Male,New Brunswick,947.27,3,8,341,11857.24,7671.29,Satisfied,0
+CUST0748,19,Female,Prince Edward Island,1242.49,0,12,309,19375.73,14826.22,Unsatisfied,0
+CUST0749,71,Male,Prince Edward Island,555.65,0,7,96,8229.17,3894.1,Satisfied,2
+CUST0750,88,Male,British Columbia,1472.84,4,2,45,13913.18,2926.4,Neutral,2
+CUST0751,81,Male,New Brunswick,1032.52,1,3,56,12818.6,3022.88,Very satisfied,2
+CUST0752,37,Female,New Brunswick,895.7,3,3,160,12237.8,2766.81,Excellent service,1
+CUST0753,72,Male,Ontario,1360.37,2,9,343,5401.15,12304.16,Unsatisfied,3
+CUST0754,39,Female,Prince Edward Island,1878.11,3,9,246,16490.27,16896.67,Excellent service,0
+CUST0755,28,Female,Quebec,790.75,2,7,345,4348.15,5441.8,Satisfied,3
+CUST0756,48,Male,Newfoundland and Labrador,587.52,1,6,52,16360.23,3584.43,Unsatisfied,2
+CUST0757,30,Female,Alberta,1455.46,3,2,222,8181.45,2932.74,Very satisfied,1
+CUST0758,70,Female,Newfoundland and Labrador,1795.86,2,2,296,8170.86,3588.38,Excellent service,1
+CUST0759,81,Female,Manitoba,947.55,1,9,20,5616.93,8551.11,Excellent service,2
+CUST0760,27,Female,Alberta,1569.59,2,4,67,19396.31,6292.15,Satisfied,2
+CUST0761,84,Male,Manitoba,333.43,4,12,256,14769.7,4023.91,Excellent service,0
+CUST0762,65,Female,Ontario,1168.8,2,6,39,659.83,6933.18,Excellent service,3
+CUST0763,31,Female,Prince Edward Island,1644.18,3,8,241,11425.27,13193.39,Satisfied,0
+CUST0764,48,Male,Newfoundland and Labrador,825.96,4,2,254,13133.73,1683.98,Satisfied,1
+CUST0765,67,Female,Nova Scotia,1095.01,3,8,44,3703.07,8798.47,Excellent service,3
+CUST0766,62,Female,Saskatchewan,1892.07,5,4,75,19300.61,7588.71,Very satisfied,2
+CUST0767,58,Male,Manitoba,1091.53,2,4,83,11679.96,4420.13,Poor service,2
+CUST0768,21,Male,Alberta,1557.09,3,5,308,19519.03,7796.49,Excellent service,1
+CUST0769,35,Male,Ontario,1885.38,0,3,65,14203.76,5640.87,Unsatisfied,2
+CUST0770,54,Female,Newfoundland and Labrador,1610.05,5,6,323,8919.33,9664.25,Poor service,1
+CUST0771,40,Female,Quebec,1662.99,1,9,258,5085.97,14905.32,Poor service,3
+CUST0772,31,Female,Alberta,942.58,2,3,308,2318.9,2849.59,Poor service,3
+CUST0773,69,Male,New Brunswick,600.39,2,4,337,19996.34,2423.18,Satisfied,1
+CUST0774,60,Female,Quebec,1937.71,5,1,35,6721.46,2021.68,Unsatisfied,2
+CUST0775,84,Female,Prince Edward Island,1890.33,0,10,250,18672.96,18965.48,Unsatisfied,0
+CUST0776,85,Female,New Brunswick,891.57,0,8,46,19575.81,7092.58,Poor service,2
+CUST0777,47,Female,Alberta,532.52,4,5,161,7452.42,2572.32,Excellent service,3
+CUST0778,24,Female,Ontario,1253.46,1,9,237,13967.95,11374.8,Excellent service,0
+CUST0779,79,Female,Quebec,524.98,2,11,111,13057.24,5727.3,Neutral,2
+CUST0780,85,Female,Quebec,1145.73,2,7,113,3122.44,8051.72,Excellent service,3
+CUST0781,23,Female,Nova Scotia,570.53,4,9,12,13781.09,5138.56,Neutral,2
+CUST0782,45,Male,Newfoundland and Labrador,1865.5,5,1,107,14300.13,1771.75,Satisfied,1
+CUST0783,78,Female,Manitoba,1007.89,4,6,139,8677.44,6086.23,Neutral,2
+CUST0784,53,Female,Newfoundland and Labrador,1852.25,2,9,359,9745.72,16694.39,Satisfied,0
+CUST0785,37,Female,Nova Scotia,1493.91,4,11,1,16366.09,16488.86,Excellent service,2
+CUST0786,50,Female,Quebec,1237.33,4,5,328,11115.68,6269.73,Unsatisfied,1
+CUST0787,35,Male,Prince Edward Island,1074.59,4,8,111,13792.74,8679.16,Excellent service,2
+CUST0788,45,Male,Ontario,863.38,4,11,1,6563.07,9493.81,Unsatisfied,2
+CUST0789,44,Female,Nova Scotia,1054.99,1,10,328,17223.1,10593.92,Very satisfied,0
+CUST0790,87,Female,British Columbia,957.54,1,11,235,18892.47,10616.46,Excellent service,0
+CUST0791,81,Female,Prince Edward Island,952.14,3,9,259,10970.66,8559.29,Satisfied,0
+CUST0792,26,Male,Nova Scotia,1607.13,5,11,115,7974.83,17596.49,Satisfied,3
+CUST0793,32,Female,British Columbia,1841.27,2,11,53,7144.56,20346.38,Satisfied,2
+CUST0794,29,Female,Manitoba,1363.98,4,6,255,17206.82,8094.98,Unsatisfied,0
+CUST0795,21,Female,Ontario,825.87,0,3,233,19107.26,2440.81,Poor service,1
+CUST0796,33,Male,Nova Scotia,941.05,3,1,149,15309.12,885.0,Neutral,1
+CUST0797,39,Female,Prince Edward Island,1420.69,3,6,330,3993.16,8519.37,Satisfied,3
+CUST0798,79,Female,Saskatchewan,1106.13,5,9,328,3727.82,9909.84,Neutral,3
+CUST0799,86,Female,Ontario,1650.69,3,6,278,14644.99,9938.47,Excellent service,0
+CUST0800,24,Female,New Brunswick,415.12,5,7,184,2576.01,2844.07,Poor service,3
+CUST0801,53,Male,Quebec,446.65,4,10,229,14367.4,4525.06,Excellent service,0
+CUST0802,31,Female,British Columbia,457.67,1,3,8,15234.43,1362.11,Unsatisfied,2
+CUST0803,28,Female,British Columbia,513.56,2,11,114,10664.96,5608.31,Unsatisfied,2
+CUST0804,34,Female,Ontario,1106.39,4,4,178,13755.32,4456.95,Poor service,1
+CUST0805,62,Male,Nova Scotia,948.85,4,9,267,2375.65,8556.03,Satisfied,3
+CUST0806,62,Male,Saskatchewan,1490.96,0,11,350,6476.41,16437.4,Unsatisfied,0
+CUST0807,82,Female,British Columbia,1991.98,4,9,328,11454.56,17869.99,Poor service,0
+CUST0808,86,Female,Saskatchewan,457.79,5,9,297,7756.6,4126.06,Satisfied,0
+CUST0809,25,Male,Ontario,1370.75,2,9,66,10004.02,12337.37,Very satisfied,2
+CUST0810,21,Female,Nova Scotia,1242.53,0,6,132,16530.2,7481.8,Excellent service,2
+CUST0811,54,Female,New Brunswick,861.12,3,12,104,8326.44,10360.94,Very satisfied,2
+CUST0812,54,Female,New Brunswick,1781.47,3,8,41,5706.47,14237.23,Poor service,2
+CUST0813,85,Female,Nova Scotia,704.01,3,6,358,8093.66,4203.06,Excellent service,1
+CUST0814,25,Female,Quebec,1996.32,5,2,16,15080.16,3899.32,Neutral,2
+CUST0815,42,Female,New Brunswick,1851.16,2,8,24,7230.29,14729.52,Neutral,2
+CUST0816,31,Female,Nova Scotia,1843.09,2,2,114,12711.35,3593.09,Very satisfied,1
+CUST0817,39,Female,Ontario,459.26,5,12,196,18584.31,5503.59,Very satisfied,0
+CUST0818,59,Female,Alberta,643.26,2,4,105,18780.02,2657.86,Neutral,2
+CUST0819,18,Female,British Columbia,595.72,2,11,91,13435.11,6569.47,Satisfied,2
+CUST0820,87,Male,Manitoba,1040.58,1,12,73,9916.17,12490.89,Satisfied,2
+CUST0821,67,Female,New Brunswick,1164.82,5,6,39,2613.68,7075.13,Poor service,3
+CUST0822,32,Male,Alberta,1765.72,4,7,310,16309.41,12439.61,Neutral,0
+CUST0823,33,Male,New Brunswick,1294.23,0,7,8,830.15,9051.77,Poor service,3
+CUST0824,77,Male,Nova Scotia,754.61,4,3,217,8066.3,2311.83,Satisfied,1
+CUST0825,69,Female,Alberta,1514.57,1,1,285,749.51,1611.93,Excellent service,3
+CUST0826,76,Male,Manitoba,822.14,3,4,34,17969.27,3230.62,Satisfied,2
+CUST0827,86,Male,Manitoba,796.54,2,1,9,11383.66,878.94,Very satisfied,2
+CUST0828,44,Male,Nova Scotia,1561.49,0,9,176,597.78,13992.25,Excellent service,3
+CUST0829,20,Male,Newfoundland and Labrador,1400.28,0,12,69,3068.09,16883.48,Neutral,3
+CUST0830,38,Male,Prince Edward Island,1835.14,2,1,255,15718.06,1819.32,Satisfied,1
+CUST0831,44,Male,Alberta,1870.79,5,10,146,1867.42,18736.42,Satisfied,3
+CUST0832,44,Male,Newfoundland and Labrador,1164.68,3,10,168,18461.78,11547.06,Very satisfied,0
+CUST0833,35,Male,Manitoba,1273.1,2,3,219,2132.12,3901.62,Very satisfied,3
+CUST0834,88,Female,Quebec,585.17,4,9,47,1868.46,5182.34,Excellent service,3
+CUST0835,85,Female,Saskatchewan,678.84,5,9,136,18298.1,6019.64,Neutral,2
+CUST0836,27,Female,Prince Edward Island,1100.47,5,12,315,6681.58,13143.5,Very satisfied,0
+CUST0837,69,Female,New Brunswick,1930.96,4,12,258,16091.37,23078.98,Neutral,0
+CUST0838,62,Male,Alberta,1762.53,5,8,163,1145.15,14010.64,Very satisfied,3
+CUST0839,24,Female,New Brunswick,626.73,5,4,184,7921.45,2468.82,Satisfied,1
+CUST0840,75,Male,Nova Scotia,983.59,1,5,63,9078.74,4878.3,Very satisfied,2
+CUST0841,26,Male,Alberta,911.32,0,1,335,11308.9,974.11,Unsatisfied,1
+CUST0842,18,Female,Saskatchewan,372.15,5,5,221,9580.16,1802.06,Poor service,1
+CUST0843,57,Male,Saskatchewan,1004.48,5,10,138,1728.95,9970.61,Neutral,3
+CUST0844,43,Female,Newfoundland and Labrador,1212.47,1,8,336,19379.99,9711.35,Excellent service,0
+CUST0845,78,Female,Nova Scotia,406.12,0,12,318,15738.33,4877.66,Excellent service,0
+CUST0846,30,Male,New Brunswick,1851.72,2,12,211,4240.97,22319.47,Unsatisfied,3
+CUST0847,57,Female,Ontario,1574.04,1,11,303,907.09,17346.45,Poor service,3
+CUST0848,33,Female,New Brunswick,309.66,3,9,93,12431.84,2720.82,Excellent service,2
+CUST0849,40,Male,Saskatchewan,1057.97,4,2,274,6035.26,2181.72,Neutral,1
+CUST0850,40,Female,Alberta,1110.11,3,8,166,6465.52,8790.03,Poor service,3
+CUST0851,89,Male,Quebec,1635.15,3,4,364,13461.39,6606.37,Satisfied,1
+CUST0852,52,Male,New Brunswick,443.25,4,12,320,7020.36,5327.73,Neutral,0
+CUST0853,38,Female,Nova Scotia,531.93,5,12,316,15647.96,6345.31,Excellent service,0
+CUST0854,79,Female,Newfoundland and Labrador,1293.03,1,9,12,5824.45,11706.4,Very satisfied,2
+CUST0855,22,Male,Prince Edward Island,1851.02,3,12,23,17275.72,22222.34,Unsatisfied,2
+CUST0856,52,Female,Quebec,1357.57,4,7,339,3572.04,9524.87,Very satisfied,3
+CUST0857,89,Female,Ontario,1192.91,5,12,42,11342.04,14289.74,Excellent service,2
+CUST0858,28,Female,Prince Edward Island,1907.55,3,8,297,12768.13,15349.95,Very satisfied,0
+CUST0859,81,Male,Newfoundland and Labrador,1036.68,3,9,346,11681.78,9415.22,Neutral,0
+CUST0860,31,Male,Ontario,452.17,0,4,89,16068.41,1807.23,Very satisfied,2
+CUST0861,51,Male,British Columbia,1740.48,0,3,184,5297.43,5319.38,Satisfied,3
+CUST0862,51,Female,Newfoundland and Labrador,1088.06,3,5,183,11434.92,5501.6,Neutral,1
+CUST0863,19,Female,New Brunswick,1074.79,3,7,102,7850.33,7534.25,Poor service,2
+CUST0864,21,Female,Nova Scotia,1345.56,3,10,329,13793.4,13430.71,Very satisfied,0
+CUST0865,22,Female,Ontario,1530.67,3,2,187,19935.64,3030.18,Excellent service,1
+CUST0866,81,Female,Nova Scotia,1614.26,3,2,304,14719.87,3309.24,Satisfied,1
+CUST0867,23,Male,Manitoba,1236.3,3,12,54,12888.73,14758.93,Unsatisfied,2
+CUST0868,86,Female,Newfoundland and Labrador,1808.36,0,11,4,8573.35,19928.94,Poor service,2
+CUST0869,67,Male,Saskatchewan,679.33,5,11,59,9831.56,7420.32,Excellent service,2
+CUST0870,25,Male,Alberta,1413.6,0,12,311,15197.87,16953.38,Excellent service,0
+CUST0871,57,Male,Saskatchewan,575.65,0,11,73,17404.02,6297.34,Satisfied,2
+CUST0872,46,Female,Alberta,1867.01,2,2,228,18714.21,3800.34,Excellent service,1
+CUST0873,88,Female,Alberta,357.99,3,1,17,7888.68,310.9,Unsatisfied,2
+CUST0874,53,Female,Nova Scotia,842.3,4,1,351,15369.16,766.0,Neutral,1
+CUST0875,74,Male,Saskatchewan,851.3,2,3,209,11657.71,2540.1,Neutral,1
+CUST0876,48,Female,Ontario,940.55,0,12,51,11846.69,11230.35,Excellent service,2
+CUST0877,86,Female,Ontario,1925.41,0,8,223,14269.06,15489.66,Satisfied,0
+CUST0878,61,Male,Prince Edward Island,597.86,3,10,365,7132.25,6021.85,Excellent service,0
+CUST0879,64,Male,New Brunswick,890.24,0,3,36,14196.68,2578.11,Very satisfied,2
+CUST0880,57,Female,New Brunswick,1316.01,1,4,343,16539.89,5238.21,Satisfied,1
+CUST0881,26,Male,Saskatchewan,1367.98,1,1,37,8679.78,1353.02,Neutral,2
+CUST0882,82,Male,Manitoba,786.63,4,11,276,4452.81,8558.48,Neutral,3
+CUST0883,38,Male,Ontario,1559.74,2,1,154,13698.93,1511.66,Very satisfied,1
+CUST0884,55,Female,Newfoundland and Labrador,849.11,2,10,138,15916.69,8506.89,Very satisfied,0
+CUST0885,19,Female,Nova Scotia,1595.89,0,3,256,15851.09,4778.19,Satisfied,1
+CUST0886,63,Female,Nova Scotia,1902.82,2,12,149,2517.14,22770.69,Neutral,3
+CUST0887,83,Male,Nova Scotia,1705.23,4,3,246,4500.18,5059.74,Excellent service,3
+CUST0888,42,Male,Nova Scotia,796.25,5,5,226,6703.91,3959.16,Poor service,3
+CUST0889,61,Male,New Brunswick,634.0,2,3,271,969.78,1971.94,Neutral,3
+CUST0890,61,Male,Nova Scotia,368.02,0,2,120,11186.37,695.29,Unsatisfied,1
+CUST0891,34,Female,Prince Edward Island,516.23,4,3,39,10611.16,1464.5,Satisfied,2
+CUST0892,70,Male,Newfoundland and Labrador,1762.28,4,12,337,3417.12,21139.82,Satisfied,3
+CUST0893,36,Female,Nova Scotia,850.54,5,12,353,19092.7,10243.77,Neutral,0
+CUST0894,22,Female,Quebec,1039.52,2,12,267,16907.49,12377.09,Excellent service,0
+CUST0895,19,Male,Quebec,1218.15,0,3,133,4723.23,3595.13,Neutral,3
+CUST0896,77,Male,Saskatchewan,1084.24,5,3,294,12222.88,3270.32,Unsatisfied,1
+CUST0897,36,Female,Nova Scotia,1282.91,5,2,106,10712.78,2466.05,Poor service,1
+CUST0898,59,Male,Ontario,816.39,3,8,313,7747.96,6471.11,Unsatisfied,3
+CUST0899,50,Female,Newfoundland and Labrador,1161.35,4,8,193,19127.62,9267.27,Poor service,0
+CUST0900,35,Male,Newfoundland and Labrador,434.23,3,4,84,10755.43,1713.27,Very satisfied,2
+CUST0901,45,Female,Newfoundland and Labrador,733.57,2,4,79,19397.33,2939.91,Satisfied,2
+CUST0902,53,Female,New Brunswick,1427.66,2,1,28,10411.22,1516.74,Excellent service,2
+CUST0903,57,Male,Ontario,553.02,2,5,362,14379.27,2715.58,Very satisfied,1
+CUST0904,67,Male,Quebec,1275.56,1,9,37,14157.93,11539.93,Neutral,2
+CUST0905,87,Female,Quebec,1544.07,1,9,21,18078.03,13924.46,Poor service,2
+CUST0906,46,Male,Alberta,1324.56,0,7,12,7483.41,9174.94,Excellent service,2
+CUST0907,56,Male,Newfoundland and Labrador,763.02,0,6,157,2950.72,4590.78,Satisfied,3
+CUST0908,59,Female,Ontario,1131.91,0,7,95,10389.9,7974.43,Poor service,2
+CUST0909,75,Female,New Brunswick,1455.34,3,2,340,15232.38,2941.09,Neutral,1
+CUST0910,83,Female,New Brunswick,1187.91,0,1,200,6282.48,1164.02,Excellent service,1
+CUST0911,35,Male,Ontario,1669.63,2,10,154,10381.27,16667.22,Unsatisfied,0
+CUST0912,41,Male,Nova Scotia,405.25,3,4,304,19486.9,1569.58,Excellent service,1
+CUST0913,28,Male,Manitoba,1239.83,1,6,179,18966.47,7422.74,Excellent service,2
+CUST0914,59,Female,Quebec,1340.27,0,12,252,9132.69,16057.41,Very satisfied,0
+CUST0915,75,Male,Alberta,1198.36,4,12,5,19948.27,14472.62,Satisfied,2
+CUST0916,30,Female,British Columbia,599.07,5,9,126,18961.98,5316.6,Poor service,2
+CUST0917,24,Male,Manitoba,1951.3,3,11,301,9358.36,21400.01,Satisfied,0
+CUST0918,44,Female,Saskatchewan,939.81,0,1,346,13053.85,935.25,Unsatisfied,1
+CUST0919,33,Male,Nova Scotia,1494.03,3,8,123,17847.31,11853.96,Very satisfied,2
+CUST0920,20,Male,British Columbia,1407.9,5,12,114,18126.88,16969.62,Very satisfied,0
+CUST0921,52,Male,Ontario,1509.63,1,11,336,14144.55,16568.8,Neutral,0
+CUST0922,23,Male,New Brunswick,904.83,3,10,350,18454.74,8972.54,Very satisfied,0
+CUST0923,82,Male,New Brunswick,1472.75,0,7,112,17145.07,10277.55,Excellent service,2
+CUST0924,33,Female,Nova Scotia,1809.95,3,10,28,8820.82,18149.23,Satisfied,2
+CUST0925,20,Male,Prince Edward Island,1389.0,2,11,285,14932.84,15185.21,Neutral,0
+CUST0926,28,Male,New Brunswick,1433.54,1,10,24,8449.01,14294.32,Poor service,2
+CUST0927,53,Female,Manitoba,334.33,0,10,313,15973.91,3399.4,Excellent service,0
+CUST0928,24,Male,Newfoundland and Labrador,1615.8,4,9,267,10731.79,14484.61,Poor service,0
+CUST0929,37,Male,Newfoundland and Labrador,424.83,0,8,305,19578.95,3423.19,Poor service,0
+CUST0930,53,Female,Prince Edward Island,502.11,1,6,145,1365.35,3058.47,Poor service,3
+CUST0931,57,Male,Newfoundland and Labrador,1407.31,3,11,126,12927.2,15570.36,Poor service,0
+CUST0932,39,Male,Newfoundland and Labrador,765.61,0,3,207,13883.33,2325.56,Very satisfied,1
+CUST0933,41,Male,Quebec,1982.46,4,2,200,18703.65,3903.38,Neutral,1
+CUST0934,73,Male,Alberta,1547.21,2,11,124,4145.11,17100.85,Neutral,3
+CUST0935,35,Female,Alberta,1446.82,0,9,162,7095.29,12969.96,Satisfied,3
+CUST0936,40,Female,New Brunswick,646.49,1,6,71,4203.52,3805.87,Unsatisfied,3
+CUST0937,22,Female,Quebec,1751.37,2,8,333,15142.65,14056.08,Very satisfied,0
+CUST0938,45,Female,Alberta,1408.53,2,6,123,10406.64,8417.05,Very satisfied,2
+CUST0939,53,Male,Ontario,812.78,5,6,298,2763.6,4933.04,Satisfied,3
+CUST0940,42,Male,Saskatchewan,528.24,1,11,277,5011.05,5904.79,Neutral,3
+CUST0941,56,Male,Ontario,1918.39,3,9,102,2868.16,17274.51,Very satisfied,3
+CUST0942,76,Female,Manitoba,762.56,1,2,41,1014.17,1530.55,Poor service,3
+CUST0943,47,Female,Quebec,1243.15,3,6,89,10725.37,7537.1,Excellent service,2
+CUST0944,38,Male,Nova Scotia,1251.5,2,8,90,9811.78,9934.4,Unsatisfied,2
+CUST0945,58,Female,Saskatchewan,1309.39,2,5,223,13547.56,6463.21,Satisfied,1
+CUST0946,79,Male,Newfoundland and Labrador,1762.94,3,3,353,10145.76,5361.27,Satisfied,1
+CUST0947,22,Male,New Brunswick,1752.25,3,9,171,17116.18,15799.52,Poor service,0
+CUST0948,32,Female,Quebec,760.68,1,6,258,16246.92,4505.1,Unsatisfied,0
+CUST0949,49,Female,Nova Scotia,1645.4,4,8,158,1946.16,13176.83,Very satisfied,3
+CUST0950,67,Male,New Brunswick,1473.59,3,10,219,17965.53,14653.78,Very satisfied,0
+CUST0951,60,Male,Nova Scotia,1657.6,2,12,201,3872.71,19884.87,Satisfied,3
+CUST0952,82,Male,Prince Edward Island,1481.67,5,12,167,15911.65,17745.51,Poor service,0
+CUST0953,45,Female,British Columbia,1482.09,1,1,230,15297.67,1409.41,Unsatisfied,1
+CUST0954,24,Male,Saskatchewan,1855.03,3,10,345,3925.15,18609.88,Neutral,3
+CUST0955,52,Female,Nova Scotia,1092.89,1,3,117,13055.11,3275.39,Very satisfied,2
+CUST0956,30,Female,New Brunswick,1187.65,0,9,185,5486.45,10712.6,Poor service,3
+CUST0957,75,Male,New Brunswick,1277.16,2,1,28,4609.03,1249.75,Excellent service,2
+CUST0958,50,Female,Ontario,1812.11,4,11,9,8591.95,19915.17,Poor service,2
+CUST0959,58,Female,Newfoundland and Labrador,708.97,0,2,274,3470.33,1412.41,Very satisfied,1
+CUST0960,28,Female,Manitoba,955.53,3,4,20,9274.06,3873.03,Neutral,2
+CUST0961,72,Male,Nova Scotia,1351.93,0,2,331,11808.36,2683.07,Very satisfied,1
+CUST0962,20,Female,New Brunswick,582.13,1,3,24,19985.19,1777.89,Excellent service,2
+CUST0963,25,Male,Quebec,577.58,2,1,5,19360.21,542.42,Excellent service,2
+CUST0964,62,Male,British Columbia,783.4,0,8,227,2401.75,6266.19,Satisfied,3
+CUST0965,35,Female,British Columbia,962.04,4,6,2,9405.84,5783.95,Poor service,2
+CUST0966,61,Female,Alberta,803.66,0,6,180,4433.26,4854.88,Poor service,3
+CUST0967,85,Male,British Columbia,455.74,4,7,75,13712.57,3180.82,Poor service,2
+CUST0968,45,Female,British Columbia,529.3,0,2,30,8945.99,1142.05,Unsatisfied,2
+CUST0969,71,Female,Saskatchewan,1592.73,1,4,272,14354.93,6367.48,Very satisfied,1
+CUST0970,63,Male,Quebec,770.04,0,1,109,5210.95,850.86,Poor service,1
+CUST0971,42,Male,Manitoba,546.83,3,6,95,2597.77,3335.0,Poor service,3
+CUST0972,53,Female,New Brunswick,1027.39,0,1,329,12379.98,971.83,Poor service,1
+CUST0973,39,Female,Saskatchewan,1676.32,4,7,160,15690.6,11780.5,Excellent service,2
+CUST0974,36,Female,Prince Edward Island,602.74,1,9,186,9063.65,5478.08,Neutral,3
+CUST0975,29,Male,Alberta,1379.62,3,2,36,12144.27,2830.35,Excellent service,2
+CUST0976,55,Male,Quebec,1694.12,0,11,236,625.0,18612.08,Satisfied,3
+CUST0977,37,Male,Manitoba,1591.31,1,6,198,8186.68,9622.02,Satisfied,3
+CUST0978,83,Male,Ontario,1919.22,3,9,201,16173.26,17238.65,Excellent service,0
+CUST0979,53,Male,Prince Edward Island,1481.37,1,4,258,4863.72,5905.54,Very satisfied,3
+CUST0980,67,Female,Newfoundland and Labrador,1003.55,3,11,228,2401.44,11089.55,Excellent service,3
+CUST0981,59,Male,Alberta,488.47,4,12,106,11234.05,5907.13,Very satisfied,2
+CUST0982,49,Male,Manitoba,1712.18,5,10,287,15894.82,17166.93,Excellent service,0
+CUST0983,79,Male,Nova Scotia,1739.2,1,3,170,5153.2,5280.25,Neutral,3
+CUST0984,65,Male,Quebec,991.14,3,8,286,8033.71,8028.6,Neutral,3
+CUST0985,65,Female,Prince Edward Island,796.41,5,1,135,4182.84,730.68,Satisfied,1
+CUST0986,20,Male,New Brunswick,682.77,1,9,4,4688.17,6160.84,Excellent service,2
+CUST0987,70,Female,British Columbia,1121.55,2,6,125,15972.01,6798.81,Neutral,2
+CUST0988,69,Female,New Brunswick,992.31,5,8,280,5482.19,7957.89,Excellent service,3
+CUST0989,38,Female,Saskatchewan,1354.35,5,5,126,4394.91,6673.07,Unsatisfied,3
+CUST0990,45,Female,Nova Scotia,1252.9,0,5,92,15700.58,6315.21,Neutral,2
+CUST0991,32,Male,Manitoba,1541.89,3,12,278,2665.53,18601.48,Satisfied,3
+CUST0992,77,Female,Manitoba,1237.06,0,2,43,12115.11,2501.12,Poor service,2
+CUST0993,71,Male,Prince Edward Island,940.96,0,1,190,7333.88,998.0,Unsatisfied,1
+CUST0994,76,Male,British Columbia,689.0,4,1,341,1682.89,768.99,Very satisfied,1
+CUST0995,75,Male,Nova Scotia,1843.23,3,1,262,8461.4,1846.27,Neutral,1
+CUST0996,79,Female,Manitoba,585.26,4,10,12,15524.11,5809.58,Excellent service,2
+CUST0997,43,Female,Quebec,1580.71,4,9,53,4346.09,14181.97,Neutral,3
+CUST0998,78,Female,Nova Scotia,535.25,0,10,68,11785.17,5392.64,Very satisfied,2
+CUST0999,31,Female,Quebec,769.26,0,10,273,15795.33,7618.48,Unsatisfied,0
+CUST1000,84,Female,British Columbia,956.33,0,11,317,13375.81,10553.37,Excellent service,0
