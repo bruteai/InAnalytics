@@ -118,19 +118,6 @@ The app typically opens at [http://localhost:8501](http://localhost:8501).
 
 Explore the **Home, ML Models, CLV Prediction, Segmentation, Data Analysis, Reports, and Settings** tabs.
 
-## Screenshots
-### **Home Page**
-- High-level metrics, monthly revenue chart, and sample data preview.
-
-### **ML Models**
-- Comparing model performance (RMSE, R²) across multiple algorithms.
-
-### **CLV Prediction**
-- Real-time CLV predictions by selecting a model and inputting features.
-
-### **Segmentation**
-- Customer clusters with RFM metrics and scatter plots for deeper insights.
-
 ## Future Enhancements
 - **Automated Retraining & Deployment**: Set up CI/CD pipelines to retrain models and redeploy the app automatically.
 - **Role-Based Access**: Implement user authentication and authorization to secure sensitive data.
