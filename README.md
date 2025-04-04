@@ -4,7 +4,7 @@
 
 
 InAnalytics is an insurance analytics dashboard built with Streamlit, Altair, and scikit-learn. It offers end-to-end insights into customer lifetime value (CLV), segmentation, policy trends, and machine learning-based predictions. 
-**Note**: This repository uses synthetic data for demonstration purposes. You can replace the data with your own real-world insurance datasets to generate customized insights
+**Note**: This repository uses synthetic data for demonstration purposes. You can replace the data with your own real-world datasets to generate customized insights
 
 ## Table of Contents
 - [Overview](#overview)
