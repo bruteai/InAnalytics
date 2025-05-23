@@ -130,7 +130,7 @@ Explore the **Home, ML Models, CLV Prediction, Segmentation, Data Analysis, Repo
 - Submit a pull request with clear documentation and a test plan.
 - Discuss changes in the PR to refine and merge them.
 
-We welcome contributions from the community—whether bug reports, feature requests, or code improvements.
+We welcome contributions from the community, whether bug reports, feature requests, or code improvements.
 
 ## License
 This project is licensed under the MIT License. Feel free to use and adapt InAnalytics to suit your needs.
