@@ -136,4 +136,4 @@ We welcome contributions from the community—whether bug reports, feature reque
 This project is licensed under the MIT License. Feel free to use and adapt InAnalytics to suit your needs.
 
 ---
-Thank you for checking out **InAnalytics**! If you have any questions, issues, or suggestions, please open an issue or contact us directly.
+Thank you for checking out **InAnalytics**! If you have any questions, issues, or suggestions, please open an issue or contact directly.
